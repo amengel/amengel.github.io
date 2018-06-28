@@ -7,7 +7,7 @@ baseurl = "https://amengel.github.io/"
 #baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Andrew M. Engelhardt"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -183,11 +183,6 @@ enableGitInfo = false
     'Book',  # 5
     'Book section'  # 6
   ]
-
-  # Configuration of talk pages.
-  [params.talks]
-    # Show talk time?
-    time = true
 
   # Configuration of publication pages.
   [params.publications]

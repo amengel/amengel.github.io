@@ -22,19 +22,12 @@ weight = 5
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Political Science"
+  institution = "The College of William & Mary"
+  year = 2013
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a political science Ph.D. candidate at Vanderbilt University. My research focuses on political behavior and public opinion in the United States, centering on the intersection of group politics and social and economic inequality. Substantively I am interested in areas ranging from political party coalitions to race and ethnic politics. My dissertation project explores how political elites shape the ways whites understand race, in part flipping the conventional wisdom that racial attitudes are consistently pre-political. I employ correlational, text-as-data, and experimental methods to answer these questions. I am also interested in methodological issues related to capturing individuals? beliefs and attitudes, and effectively linking theoretical constructs with empirical measures.
