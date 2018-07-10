@@ -4,6 +4,12 @@ permalink: /research/
 title: Research
 pubs:
 
+    - title:   "*E Pluribus Unum?* How Ethnic and National Identity Motivate Individual Reactions to a Political Ideal"
+      #author:  ""
+      journal: "The Journal of Politics"
+      note:    "with Efrén Pérez and Maggie Deichert"
+      year:    "Forthcoming"
+
     - title:   "Knock out Blows or the Status Quo?: Capturing Momentum in the 2016 Primaries"
       #author:  ""
       journal: "The Journal of Politics"
@@ -16,12 +22,6 @@ pubs:
       #  - name: "IMDB"
       #    url:  "http://www.imdb.com/title/tt0133093/"
       
-    - title:   "*E Pluribus Unum?* How Ethnic and National Identity Motivate Individual Reactions to a Political Ideal"
-      #author:  ""
-      journal: "The Journal of Politics"
-      note:    "with Efrén Pérez and Maggie Deichert"
-      year:    "Forthcoming"
-      
 working:
 
        - title:   "Racial Attitudes through a Partisan Lens"
@@ -31,7 +31,6 @@ working:
        - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
 
 ---
-
 ## Publications
 {% assign thumbnail="left" %}
 
@@ -39,8 +38,8 @@ working:
 {% if pub.image %}
 {% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
 {% endif %}
-*{{pub.year}}*  [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
-{{pub.author}}<br />
+*{{pub.year}}*      [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br>
+{{pub.author}}<br>
 *{{pub.journal}}*
 {% if pub.note %} ({{pub.note}})
 {% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
@@ -51,5 +50,5 @@ working:
 ## Working Papers
 {% assign thumbnail="left" %}
 {% for pub in page.working %}
-**{{pub.title}}**
+{{pub.title}}
 {% endfor %}
