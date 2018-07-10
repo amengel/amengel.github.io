@@ -4,6 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-Download [PDF version](http://nitens.org/img/cvtex/cv_template_xetex_caslon.pdf). The PDF should be embedded underneath -- uses Google Docs for embedding and works if the PDF is on dropbox. Works sporadically if PDF is elsewhere too.
+Download [PDF version](https://drive.google.com/open?id=1rE6h2UvFrkyn4Xn7GYecZy0IRXk5Hm66).
 
-{% include embedpdf.html source="http://nitens.org/img/cvtex/cv_template_xetex_caslon.pdf" width=100 height=800 %}
+{% include image.html url="images/amengelhardt cv v071018.pdf" caption="" max_width="300px" %}
