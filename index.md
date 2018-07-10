@@ -10,9 +10,9 @@ I am a political science Ph.D. candidate at Vanderbilt University. My research f
 
 ## Contact
 
-PMB 505
-230 Appleton Place
-Nashville, TN 37203
+PMB 505 <br />
+230 Appleton Place <br />
+Nashville, TN 37203 <br />
 Email: [andrew.m.engelhardt@vanderbilt.edu]
 
 [andrew.m.engelhardt@vanderbilt.edu]: mailto:andrew.m.engelhardt@vanderbilt.edu
