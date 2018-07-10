@@ -7,7 +7,7 @@ pubs:
     - title:   "Knock out Blows or the Status Quo?: Capturing Momentum in the 2016 Primaries"
       #author:  ""
       journal: "The Journal of Politics"
-      note:    "(with Joshua D. Clinton and Marc Trussler)"
+      note:    "with Joshua D. Clinton and Marc Trussler"
       year:    "Forthcoming"
       #url:     "http://publish-more-stuff.org"
       #doi:     "http://dx.doi.org"
@@ -19,7 +19,7 @@ pubs:
     - title:   "*E Pluribus Unum?* How Ethnic and National Identity Motivate Individual Reactions to a Political Ideal"
       #author:  ""
       journal: "The Journal of Politics"
-      note:    "(with Efrén Pérez and Maggie Deichert)"
+      note:    "with Efrén Pérez and Maggie Deichert"
       year:    "Forthcoming"
       #url:     "http://publish-more-stuff.org"
       #doi:     "http://dx.doi.org"
@@ -30,7 +30,7 @@ pubs:
 
 ---
 
-## Publications (peer reviewed)
+## Publications
 
 {% assign thumbnail="left" %}
 
@@ -38,11 +38,13 @@ pubs:
 {% if pub.image %}
 {% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
 {% endif %}
-[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
+*{{pub.year}}* [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
 {{pub.author}}<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+{% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
+
+## Working Papers
