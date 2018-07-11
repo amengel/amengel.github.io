@@ -15,7 +15,7 @@ pubs:
       journal: "The Journal of Politics"
       note:    "with Joshua D. Clinton and Marc Trussler"
       year:    "Forthcoming"
-      #url:     "http://publish-more-stuff.org"
+      url:     ""
       #doi:     "http://dx.doi.org"
       #image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       #media:
