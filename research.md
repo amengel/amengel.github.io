@@ -5,13 +5,13 @@ title: Research
 pubs:
 
     - title:   "*E Pluribus Unum?* How Ethnic and National Identity Motivate Individual Reactions to a Political Ideal"
-      #author:  ""
+      author:  ""
       journal: "The Journal of Politics"
       note:    "with Efrén Pérez and Maggie Deichert"
       year:    "Forthcoming"
 
     - title:   "Knock out Blows or the Status Quo?: Capturing Momentum in the 2016 Primaries"
-      #author:  ""
+      author:  ""
       journal: "The Journal of Politics"
       note:    "with Joshua D. Clinton and Marc Trussler"
       year:    "Forthcoming"
@@ -29,7 +29,6 @@ working:
        - title:   "Partisan Lenses For All or For Some? Unpacking Partisanship’s Causal Influence on Racial Attitudes"
        - title:   "Trumped by Race: Explanations for Race’s Influence on Whites’ Votes in 2016"
        - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
-
 ---
 ## Publications
 {% assign thumbnail="left" %}
@@ -38,9 +37,7 @@ working:
 {% if pub.image %}
 {% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
 {% endif %}
-*{{pub.year}}* [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})
-{{pub.author}} 
-*{{pub.journal}}* 
+*{{pub.year}}* [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %}) {{pub.author}} *{{pub.journal}}* 
 {% if pub.note %} ({{pub.note}})
 {% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
@@ -52,3 +49,4 @@ working:
 {% for pub in page.working %}
 {{pub.title}}
 {% endfor %}
+
