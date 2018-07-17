@@ -2,6 +2,9 @@ title: Andrew M. Engelhardt
 #description: Much-Worse Jekyll theme for academic page and blog
 #sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
+plugins:
+    - jekyll-seo-tag
+
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
