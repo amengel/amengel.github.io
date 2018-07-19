@@ -8,7 +8,7 @@ pubs:
       author:  ""
       journal: "The Journal of Politics"
       note:    "with Efrén Pérez and Maggie Deichert"
-      year:    "Conditional Accept"
+      year:    "Conditionally Accepted"
 
     - title:   "Knock out Blows or the Status Quo?: Capturing Momentum in the 2016 Primaries"
       author:  ""
