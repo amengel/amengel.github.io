@@ -12,10 +12,10 @@ exclude: ["Makefile", "README.md"]
 url: "http://amengel.github.io"     # the base hostname & protocol for your site
 #baseurl: "/"                   # the subpath of your site, e.g. /blog
 
-author:
-    name:
-    facebook:
-    scholar:
+#author:
+#    name:
+#    facebook:
+#    scholar:
 
 # Build settings
 markdown: kramdown
