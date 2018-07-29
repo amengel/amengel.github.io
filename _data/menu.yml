@@ -1,8 +1,8 @@
-- title: "Research"
-  href: "/research/"
-
 - title: "CV"
   href: "/cv/"
+  
+- title: "Research"
+  href: "/research/"
 
 - title: "Teaching"
   href: "/teaching/"
