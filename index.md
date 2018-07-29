@@ -10,7 +10,7 @@ I am a political science Ph.D. candidate at Vanderbilt University. My research f
 
 In my dissertation project I argue that the conventional wisdom in political science, where early-learned racial beliefs consistently explain political views, powerfully shaping partisan loyalties and political decision-making through adulthood, is incomplete. Instead, I show through a mixed-methods approach that today’s polarized political environment can make Whites’ partisan ties a potent influence on attitudes about race and racial groups. Changes in the political context shift causal dynamics in ways current theorizing ignores.<br />
 
-In addition to my substantive interest in the connections between identities, intergroup relations, and context, I am also interested in methodological issues related to capturing individuals’ beliefs and attitudes, and effectively linking theoretical constructs with empirical measures.
+Methodologically I am interested in questions related to linking theoretical constructs with empirical measures, using latent variable models to evaluate and refine measures of attitudes and identities.
 
 
 ## Contact
