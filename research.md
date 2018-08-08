@@ -27,6 +27,7 @@ working:
        - title:   "Partisan Lenses For All or For Some? Unpacking Partisanship’s Causal Influence on Racial Attitudes"
        - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
        - title:   "Trumped by Race: Explanations for Race’s Influence on Whites’ Votes in 2016"
+      
 ---
 ## Publications
 {% assign thumbnail="left" %}
