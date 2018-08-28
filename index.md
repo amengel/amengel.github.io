@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.png" caption="" max_width="300px" align="right"%}
+{% include image.html url="images/photo.png" caption="" max_width="50px" align="right"%}
 
 I am a political science Ph.D. candidate at Vanderbilt University. My research focuses on political behavior and public opinion in the United States. I study the relationship between race and politics to understand how the political context affects individuals' identities and intergroup attitudes. Political elites throughout this country's history have varied markedly in how they talk about race and racial groups. I am interested in understanding how this affects the mass public's social group attachments and attitudes about these groups. To explore these relationships I rely on diverse methods, study different populations, and draw from different theoretical approaches.<br /> 
 
