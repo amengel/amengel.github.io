@@ -22,6 +22,12 @@ pubs:
       #  - name: "IMDB"
       #    url:  "http://www.imdb.com/title/tt0133093/"
       
+    - title:   "Grand Old (Tailgate) Party? Partisan discrimination in apolitical settings"
+      author:  ""
+      journal: "Political Behavior"
+      note:    "with Stephen Utych"
+      year:    "Forthcoming"
+      
 working:
        - title:   "The Content of their Coverage: How Partisan Media Discuss Race"
        - title:   "Partisan Lenses For All or For Some? Unpacking Partisanship’s Causal Influence on Racial Attitudes"
