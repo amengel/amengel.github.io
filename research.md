@@ -25,7 +25,7 @@ pubs:
     - title:   "Grand Old (Tailgate) Party? Partisan discrimination in apolitical settings"
       author:  ""
       journal: "Political Behavior"
-      note:    "with Stephen Utych"
+      note:    "with Stephen M. Utych"
       year:    "Forthcoming"
       
 working:
