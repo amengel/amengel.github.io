@@ -4,6 +4,12 @@ permalink: /research/
 title: Research
 pubs:
 
+    - title:   "Grand Old (Tailgate) Party? Partisan discrimination in apolitical settings"
+      author:  ""
+      journal: "Political Behavior"
+      note:    "with Stephen M. Utych"
+      year:    "Forthcoming"
+
     - title:   "*E Pluribus Unum?* How Ethnic and National Identity Motivate Individual Reactions to a Political Ideal"
       author:  ""
       journal: "The Journal of Politics"
@@ -22,14 +28,8 @@ pubs:
       #  - name: "IMDB"
       #    url:  "http://www.imdb.com/title/tt0133093/"
       
-    - title:   "Grand Old (Tailgate) Party? Partisan discrimination in apolitical settings"
-      author:  ""
-      journal: "Political Behavior"
-      note:    "with Stephen M. Utych"
-      year:    "Forthcoming"
-      
 working:
-       - title:   "The Content of their Coverage: How Partisan Media Discuss Race"
+       - title:   "The Content of their Coverage:  Contrasting Racially Conservative and Liberal Elite Rhetoric"
        - title:   "Partisan Lenses For All or For Some? Unpacking Partisanship’s Causal Influence on Racial Attitudes"
        - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
        - title:   "Trumped by Race: Explanations for Race’s Influence on Whites’ Votes in 2016"
