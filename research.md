@@ -9,6 +9,7 @@ pubs:
       journal: "Political Behavior"
       note:    "with Stephen M. Utych"
       year:    "Forthcoming"
+      doi:     " https://doi.org/10.1007/s11109-018-09519-4"
 
     - title:   "*E Pluribus Unum?* How Ethnic and National Identity Motivate Individual Reactions to a Political Ideal"
       author:  ""
