@@ -9,7 +9,8 @@ pubs:
       journal: "Political Behavior"
       note:    "with Stephen M. Utych"
       year:    "Forthcoming"
-      doi:     " https://doi.org/10.1007/s11109-018-09519-4"
+      url:     "https://drive.google.com/open?id=1J-C4qbWRQg7eWJZpa-osGKkotAyhzSsK"
+      doi:     "https://doi.org/10.1007/s11109-018-09519-4"
 
     - title:   "*E Pluribus Unum?* How Ethnic and National Identity Motivate Individual Reactions to a Political Ideal"
       author:  ""
@@ -22,7 +23,7 @@ pubs:
       journal: "The Journal of Politics"
       note:    "with Joshua D. Clinton and Marc Trussler"
       year:    "Forthcoming"
-      url:     ""
+      #url:     ""
       #doi:     "http://dx.doi.org"
       #image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       #media:
