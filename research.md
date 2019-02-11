@@ -42,14 +42,12 @@ working:
 {% assign thumbnail="left" %}
 
 {% for pub in page.pubs %}
-{% if pub.image %}
-{% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
-{% endif %}
+{% if pub.image %} {% include image.html url=pub.image caption="" height="100px" align=thumbnail %} {% endif %}
 *{{pub.year}}* [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %}) {{pub.author}} *{{pub.journal}}* 
-{% if pub.note %} ({{pub.note}})
-{% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+{% if pub.note %} ({{pub.note}}){% endif %} 
+{% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
-{% if pub.abstract %}<br />Abstract: {{pub.abstract}} {% endif %}
+{% if pub.abstract %}**Abstract**:  <span style="font-size:2em;">{{pub.abstract}}</span> {% endif %}
 
 {% endfor %}
 
