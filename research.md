@@ -18,12 +18,14 @@ pubs:
       journal: "The Journal of Politics"
       note:    "with Efrén Pérez and Maggie Deichert"
       year:    "Forthcoming"
+      abstract: "Preserving national unity in light of diversity—*e pluribus unum*—is a challenge in immigrant-receiving nations like the U.S. We claim that endorsement of this view is structured by the varied bond between ethnic and national identity among immigrant minorities and native majorities, a proposition we test across three studies of U.S. Latinos and Whites. Study 1 uses national survey data to show that ethnic and national identity are associated with support for this objective, though in varied ways among these groups. Studies 2 and 3 sharpen these results experimentally by illuminating the role of elite rhetoric in forging these connections. We show that elite remarks about the (in-)compatibility of ethnic and national identity motivate support for *e pluribus unum* through the specific attachment it influences. That is, elite rhetoric causes shifts in ethnic or national identity, which then asymmetrically shapes support for *e pluribus unum* among Latinos and Whites."
 
     - title:   "Knock out Blows or the Status Quo?: Capturing Momentum in the 2016 Primaries"
       author:  ""
       journal: "The Journal of Politics"
       note:    "with Joshua D. Clinton and Marc Trussler"
       year:    "Forthcoming"
+      abstract: "Notions of momentum loom large in accounts of presidential primaries despite im- precision about its meaning and measurement. Defining momentum as the impact election outcomes have on candidate support above and beyond existing trends and leveraging a rolling cross-section of more than 325,000 interviews to examine daily changes in candidate support in the 2016 nomination contests reveals scant evidence that primary election outcomes uniquely affect respondents’ preferences over the com- peting candidates. Preferences sometimes respond to election outcomes, but the esti- mated effects are indistinguishable from effects occurring on non-election days. There is also no evidence that those who should be most receptive to new information are more affected by election outcomes. As a result, our investigation strongly suggests that election outcomes are not uniquely important for affecting opinions and shaping the outcome of nomination contests."
       #url:     ""
       #doi:     "http://dx.doi.org"
       #image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
@@ -47,7 +49,7 @@ working:
 {% if pub.note %} ({{pub.note}}){% endif %} 
 {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
-{% if pub.abstract %}**Abstract**:  {{<span style="font-size:2em;"> pub.abstract </span>}} {% endif %}
+{% if pub.abstract %}**Abstract**:  <span style="font-size:.5em;">{{pub.abstract}}</span> {% endif %}
 
 {% endfor %}
 
