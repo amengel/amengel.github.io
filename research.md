@@ -47,7 +47,7 @@ working:
 {% if pub.note %} ({{pub.note}}){% endif %} 
 {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
-{% if pub.abstract %}**Abstract**:  <span style="font-size:2em;">{{pub.abstract}}</span> {% endif %}
+{% if pub.abstract %}**Abstract**:  {{<span style="font-size:2em;"> pub.abstract </span>}} {% endif %}
 
 {% endfor %}
 
