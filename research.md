@@ -34,10 +34,10 @@ pubs:
       #    url:  "http://www.imdb.com/title/tt0133093/"
       
 working:
-       - title:   "The Content of their Coverage:  Contrasting Racially Conservative and Liberal Elite Rhetoric"
-       - title:   "Partisan Lenses For All or For Some? Unpacking Partisanship’s Causal Influence on Racial Attitudes"
-       - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
        - title:   "Trumped by Race: Explanations for Race’s Influence on Whites’ Votes in 2016 (revise and resubmit *Quarterly Journal of Political Science*)"
+       - title:   "The Content of their Coverage:  Contrasting Racially Conservative and Liberal Elite Rhetoric"
+       - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
+       - title:   "Partisan Lenses For All or For Some? Unpacking Partisanship’s Causal Influence on Racial Attitudes"
        
       
 ---
