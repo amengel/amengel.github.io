@@ -35,9 +35,9 @@ pubs:
       journal: "The Journal of Politics"
       note:    "with Joshua D. Clinton and Marc Trussler"
       year:    "Forthcoming"
+      url:     "https://drive.google.com/open?id=1LeeOCiCRWxo6_uhIH_1Q6vxsJro78VH5"
+      doi:     "https://doi.org/10.1086/703383"
       abstract: "Notions of momentum loom large in accounts of presidential primaries despite im- precision about its meaning and measurement. Defining momentum as the impact election outcomes have on candidate support above and beyond existing trends and leveraging a rolling cross-section of more than 325,000 interviews to examine daily changes in candidate support in the 2016 nomination contests reveals scant evidence that primary election outcomes uniquely affect respondents’ preferences over the competing candidates. Preferences sometimes respond to election outcomes, but the estimated effects are indistinguishable from effects occurring on non-election days. There is also no evidence that those who should be most receptive to new information are more affected by election outcomes. As a result, our investigation strongly suggests that election outcomes are not uniquely important for affecting opinions and shaping the outcome of nomination contests."
-      #url:     ""
-      #doi:     "http://dx.doi.org"
       #image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       #media:
       #  - name: "IMDB"
