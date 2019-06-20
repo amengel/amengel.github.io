@@ -3,7 +3,6 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
-
      - title:   "Racial Attitudes through a Partisan Lens"
       author:  ""
       journal: "British Journal of Political Science"
