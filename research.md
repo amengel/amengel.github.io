@@ -12,7 +12,7 @@ pubs:
       #doi:     "https://doi.org/10.1007/s11109-018-09519-4"
       abstract: "Many analyses of the 2016 presidential election suggest that Whites’ racial attitudes played a central role in explaining vote choice, and to a degree greater than preceding years. Most explanations for this outcome emphasize the role that Donald Trump’s campaign played in activating these attitudes. These stories, however, elide an alternative explanation for these same results: a growing polarization in racial attitudes by party driven by changes among Democrats between 2012 and 2016. This matters because the two possibilities—campaign dynamics that increase the relevance of certain attitudes on vote choice or long-term distributional shifts—can produce observationally equivalent regression coefficients. I urge caution against offering singular explanations for why race mattered in 2016 because while it surely did, it is less clear how and, especially, for whom."
       
-      - title:   "Trumped by Race: Explanations for Race’s Influence on Whites’ Votes in 2016"
+    - title:   "Trumped by Race: Explanations for Race’s Influence on Whites’ Votes in 2016"
       author:  ""
       journal: "Quarterly Journal of Political Science"
       year:    "Forthcoming"
