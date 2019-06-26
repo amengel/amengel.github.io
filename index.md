@@ -16,10 +16,10 @@ Methodologically I am interested in questions related to linking theoretical con
 
 
 ## Contact
+Department of Political Science <br />
+ Box 1844 <br />
+111 Thayer Street, Third Floor <br />
+Providence, RI 02912 <br />
+Email: [andrew_engelhardt@brown.edu]
 
-PMB 505 <br />
-230 Appleton Place <br />
-Nashville, TN 37203 <br />
-Email: [andrew.m.engelhardt@vanderbilt.edu]
-
-[andrew.m.engelhardt@vanderbilt.edu]: mailto:andrew.m.engelhardt@vanderbilt.edu
+[andrew_engelhardt@brown.edu]: mailto:andrew_engelhardt@brown.edu
