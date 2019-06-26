@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/image.png" caption="" max_width="400px" align="right"%}
 
-I will be starting as a post-doctoral research associate at Brown University in July 2019. I received my Ph.D in political science from Vanderbilt University.<br />  
+I am a post-doctoral research associate affiliated with Brown University's Taubman Center for American Politics and Policy. I received my PhD in political science from Vanderbilt University.<br />  
 
 My research focuses on political behavior and public opinion in the United States. I study the relationship between race and politics to understand how political context affects individuals' identities and intergroup attitudes. Political elites throughout this country's history have varied markedly in how they talk about race and racial groups. I am interested in understanding how this affects the mass public's social group attachments and attitudes about these groups. To explore these relationships I rely on diverse methods, study different populations, and draw from different theoretical approaches.<br /> 
 
