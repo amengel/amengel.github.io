@@ -40,9 +40,9 @@ pubs:
 
     - title:   "Knock out Blows or the Status Quo?: Capturing Momentum in the 2016 Primaries"
       author:  ""
-      journal: "The Journal of Politics"
+      journal: "The Journal of Politics 81(3): 997--1013."
       note:    "with Joshua D. Clinton and Marc Trussler"
-      year:    "Forthcoming"
+      year:    "2019"
       url:     "https://drive.google.com/open?id=1LeeOCiCRWxo6_uhIH_1Q6vxsJro78VH5"
       doi:     "https://doi.org/10.1086/703383"
       abstract: "Notions of momentum loom large in accounts of presidential primaries despite im- precision about its meaning and measurement. Defining momentum as the impact election outcomes have on candidate support above and beyond existing trends and leveraging a rolling cross-section of more than 325,000 interviews to examine daily changes in candidate support in the 2016 nomination contests reveals scant evidence that primary election outcomes uniquely affect respondents’ preferences over the competing candidates. Preferences sometimes respond to election outcomes, but the estimated effects are indistinguishable from effects occurring on non-election days. There is also no evidence that those who should be most receptive to new information are more affected by election outcomes. As a result, our investigation strongly suggests that election outcomes are not uniquely important for affecting opinions and shaping the outcome of nomination contests."
