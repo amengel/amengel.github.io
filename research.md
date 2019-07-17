@@ -40,7 +40,7 @@ pubs:
 
     - title:   "Knock out Blows or the Status Quo?: Capturing Momentum in the 2016 Primaries"
       author:  ""
-      journal: "The Journal of Politics 81(3): 997--1013."
+      journal: "The Journal of Politics 81(3): 997--1013"
       note:    "with Joshua D. Clinton and Marc Trussler"
       year:    "2019"
       url:     "https://drive.google.com/open?id=1LeeOCiCRWxo6_uhIH_1Q6vxsJro78VH5"
