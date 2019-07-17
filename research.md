@@ -31,12 +31,12 @@ pubs:
       abstract: "Preserving national unity in light of diversity—*e pluribus unum*—is a challenge in immigrant-receiving nations like the U.S. We claim that endorsement of this view is structured by the varied bond between ethnic and national identity among immigrant minorities and native majorities, a proposition we test across three studies of U.S. Latinos and Whites. Study 1 uses national survey data to show that ethnic and national identity are associated with support for this objective, though in varied ways among these groups. Studies 2 and 3 sharpen these results experimentally by illuminating the role of elite rhetoric in forging these connections. We show that elite remarks about the (in-)compatibility of ethnic and national identity motivate support for *e pluribus unum* through the specific attachment it influences. That is, elite rhetoric causes shifts in ethnic or national identity, which then asymmetrically shapes support for *e pluribus unum* among Latinos and Whites."
 
      - title:   "Trumped by Race: Explanations for Race’s Influence on Whites’ Votes in 2016"
-      author:  ""
-      journal: "Quarterly Journal of Political Science 14(3): 313--328"
-      year:    "2019"
-      url:     "https://drive.google.com/open?id=1kPIeK4Fj7rPkVh6k3lkZe_wTzqRLEtIr"
-      doi:     "http://doi.org/10.1561/100.00018068"
-      abstract: "Many analyses of the 2016 presidential election suggest that Whites’ racial attitudes played a central role in explaining vote choice, and to a degree greater than preceding years. Most explanations for this outcome emphasize the role that Donald Trump’s campaign played in activating these attitudes. These stories, however, elide an alternative explanation for these same results: a growing polarization in racial attitudes by party driven by changes among Democrats between 2012 and 2016. This matters because the two possibilities—campaign dynamics that increase the relevance of certain attitudes on vote choice or long-term distributional shifts—can produce observationally equivalent regression coefficients. I urge caution against offering singular explanations for why race mattered in 2016 because while it surely did, it is less clear how and, especially, for whom."
+       author:  ""
+       journal: "Quarterly Journal of Political Science 14(3): 313--328"
+       year:    "2019"
+       url:     "https://drive.google.com/open?id=1kPIeK4Fj7rPkVh6k3lkZe_wTzqRLEtIr"
+       doi:     "http://doi.org/10.1561/100.00018068"
+       abstract: "Many analyses of the 2016 presidential election suggest that Whites’ racial attitudes played a central role in explaining vote choice, and to a degree greater than preceding years. Most explanations for this outcome emphasize the role that Donald Trump’s campaign played in activating these attitudes. These stories, however, elide an alternative explanation for these same results: a growing polarization in racial attitudes by party driven by changes among Democrats between 2012 and 2016. This matters because the two possibilities—campaign dynamics that increase the relevance of certain attitudes on vote choice or long-term distributional shifts—can produce observationally equivalent regression coefficients. I urge caution against offering singular explanations for why race mattered in 2016 because while it surely did, it is less clear how and, especially, for whom."
 
     - title:   "Knock out Blows or the Status Quo?: Capturing Momentum in the 2016 Primaries"
       author:  ""
