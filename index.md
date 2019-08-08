@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/image.png" caption="" max_width="400px" align="right"%}
 
-I am a postdoctoral research associate at Brown University's <a href="https://watson.brown.edu/taubman/">Taubman Center for American Politics and Policy</a> and <a href="https://thepolicylab.brown.edu/">Brown Policy Lab</a> affiliate. I received my PhD in political science from Vanderbilt University.<br />  
+I am a postdoctoral research associate at Brown University's <a href="https://watson.brown.edu/taubman/">Taubman Center for American Politics and Policy</a> and a <a href="https://thepolicylab.brown.edu/">Brown Policy Lab</a> affiliate. I received my PhD in political science from Vanderbilt University.<br />  
 
 I study the dynamic relationship between politics and individuals’ identities and intergroup attitudes. Political conflict throughout the  history of the United States has involved the inclusion and exclusion of various groups into the <i>polis</i>. I am interested in understanding how this affects the political relevance of the mass public’s social group attachments and attitudes about these groups, and  if these orientations change in response to political dynamics. To explore these relationships I rely on diverse methods, study different populations, and draw from different theoretical approaches. I have published articles on these topics in the <i>Journal of Politics</i>, <i>British Journal of Political Science</i>, <i>Quarterly Journal of Political Science</i>, and <i>Political Behavior</i>. <br /> 
 
