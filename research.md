@@ -54,8 +54,8 @@ working:
        - title:   "The Content of their Coverage:  Contrasting Racially Conservative and Liberal Elite Rhetoric"
        - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
        - title:   "Partisan Lenses For All or For Some? Unpacking Partisanship’s Causal Influence on Racial Attitudes"
-       - title: "Improving the Measurement of Authoritarianism" (with Stanley Feldman and Marc Hetherington)
-       - title:   "Worldview and Partisanship" (with Marc Hetherington and Pamela Conover)
+       - title: "Improving the Measurement of Authoritarianism (with Stanley Feldman and Marc Hetherington)"
+       - title:   "Worldview and Partisanship (with Marc Hetherington and Pamela Conover)"
 
 
 ---
