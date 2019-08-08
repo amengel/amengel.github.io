@@ -53,7 +53,9 @@ pubs:
 working:
        - title:   "The Content of their Coverage:  Contrasting Racially Conservative and Liberal Elite Rhetoric"
        - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
-       - title:   "Partisan Lenses For All or For Some? Unpacking Partisanship’s Causal Influence on Racial Attitudes"
+       - title:   "Partisan Lenses For All or For Some? Unpacking Partisanship’s Causal Influence on Racial Attitudes1"
+       - title: "Partisan Lenses For All or For Some? Unpacking Partisanship’s Causal Influence on Racial Attitudes2"
+       - title:   "Partisan Lenses For All or For Some? Unpacking Partisanship’s Causal Influence on Racial Attitudes3"
       
 ---
 ## Publications
