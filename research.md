@@ -53,6 +53,7 @@ pubs:
 working:
        - title:   "The Content of their Coverage:  Contrasting Racially Conservative and Liberal Elite Rhetoric"
        - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
+       - title: "The Multifaceted Explanation for the Racial Gap in Carceral State Attitudes (with Allison Anoll and Bryce Williams-Tuggle)"
        - title: "Improving the Measurement of Authoritarianism (with Stanley Feldman and Marc Hetherington)"
        - title:   "Worldview and Partisanship (with Marc Hetherington and Pamela Conover)"
 
