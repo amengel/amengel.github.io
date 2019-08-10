@@ -41,7 +41,7 @@ pubs:
         - name: "IMDB"
           url:  "http://www.imdb.com/title/tt0133093/"
         - name: "New York Times"
-           url: "https://www.nytimes.com/2019/06/19/opinion/trump-racial-resentment.html"
+          url: "https://www.nytimes.com/2019/06/19/opinion/trump-racial-resentment.html"
 
 
     - title:   "Knock out Blows or the Status Quo?: Capturing Momentum in the 2016 Primaries"
