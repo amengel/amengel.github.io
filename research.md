@@ -38,8 +38,6 @@ pubs:
       doi:     "http://doi.org/10.1561/100.00018068"
       abstract: "Many analyses of the 2016 presidential election suggest that Whites’ racial attitudes played a central role in explaining vote choice, and to a degree greater than preceding years. Most explanations for this outcome emphasize the role that Donald Trump’s campaign played in activating these attitudes. These stories, however, elide an alternative explanation for these same results: a growing polarization in racial attitudes by party driven by changes among Democrats between 2012 and 2016. This matters because the two possibilities—campaign dynamics that increase the relevance of certain attitudes on vote choice or long-term distributional shifts—can produce observationally equivalent regression coefficients. I urge caution against offering singular explanations for why race mattered in 2016 because while it surely did, it is less clear how and, especially, for whom."
       media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
         - name: "New York Times"
           url: "https://www.nytimes.com/2019/06/19/opinion/trump-racial-resentment.html"
 
@@ -73,7 +71,7 @@ working:
 *{{pub.year}}*  [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %}) {{pub.author}} *{{pub.journal}}* 
 {% if pub.note %} ({{pub.note}}){% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
-{% if pub.abstract %}**Abstract**:  <span style="font-size:.8em;">{{pub.abstract}}</span> {% endif %}
+{% if pub.abstract %}<br />**Abstract**:  <span style="font-size:.8em;">{{pub.abstract}}</span> {% endif %}
 
 {% endfor %}
 
