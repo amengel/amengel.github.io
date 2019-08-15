@@ -40,6 +40,8 @@ pubs:
       media:
         - name: "The New York Times"
           url: "https://www.nytimes.com/2019/06/19/opinion/trump-racial-resentment.html"
+        - name: "The Week"
+          url: "https://theweek.com/articles/848202/joe-biden-threatens-democratic-partys-multicultural-future"
         - name: "Yahoo News"
           url: "https://www.yahoo.com/entertainment/the-woke-primary-democrats-vie-to-do-the-most-to-fight-racism-090040399.html"
 
