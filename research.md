@@ -40,6 +40,8 @@ pubs:
       media:
         - name: "The New York Times"
           url: "https://www.nytimes.com/2019/06/19/opinion/trump-racial-resentment.html"
+        - name: "Yahoo News"
+          url: "https://www.yahoo.com/entertainment/the-woke-primary-democrats-vie-to-do-the-most-to-fight-racism-090040399.html"
 
 
     - title:   "Knock out Blows or the Status Quo?: Capturing Momentum in the 2016 Primaries"
