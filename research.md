@@ -62,11 +62,11 @@ pubs:
 working:
        - title:   "The Content of their Coverage:  Contrasting Racially Conservative and Liberal Elite Rhetoric"
        - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
+       - title: "The (Un)Changing Nature of Whites' Racial Attitudes: Distinguishing Sincere and Artifactual Sources of Attitude Change"
+       - title: "Generational Persistence in Whites' Racial Attitudes"
        - title: "The Multifaceted Explanation for the Racial Gap in Carceral State Attitudes (with Allison Anoll and Bryce Williams-Tuggle)"
        - title: "Improving the Measurement of Authoritarianism (with Stanley Feldman and Marc Hetherington)"
        - title:   "Worldview and Partisanship (with Marc Hetherington and Pamela Conover)"
-       - title: "The (Un)Changing Nature of Whites' Racial Attitudes: Distinguishing Sincere and Artifactual Sources of Attitude Change"
-       - title: "Generational Persistence in Whites' Racial Attitudes"
 
 
 ---
