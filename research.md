@@ -66,7 +66,7 @@ working:
        - title: "Improving the Measurement of Authoritarianism (with Stanley Feldman and Marc Hetherington)"
        - title:   "Worldview and Partisanship (with Marc Hetherington and Pamela Conover)"
        - title: "The (Un)Changing Nature of Whites' Racial Attitudes: Distinguishing Sincere and Artifactual Sources of Attitude Change"
-       - title: "Generational Persistence in Whites' Racial attitudes"
+       - title: "Generational Persistence in Whites' Racial Attitudes"
 
 
 ---
