@@ -82,7 +82,7 @@ working:
 
 {% endfor %}
 
-## Working Papers
+## Working Papers and Work in Progress
 {% assign thumbnail="left" %}
 {% for pub in page.working %}
 {{pub.title}}
