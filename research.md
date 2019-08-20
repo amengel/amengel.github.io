@@ -60,7 +60,7 @@ pubs:
           url: "https://www.nationalreview.com/corner/elizabeth-warren-and-the-myth-of-momentum/"
       
 working:
-       - title:   "The Content of their Coverage:  Contrasting Racially Conservative and Liberal Elite Rhetoric (revised and resubmit at Politics, Groups, and Identities)"
+       - title:   "The Content of their Coverage:  Contrasting Racially Conservative and Liberal Elite Rhetoric (revise and resubmit at Politics, Groups, and Identities)"
        - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
        - title: "The (Un)Changing Nature of Whites' Racial Attitudes: Distinguishing Sincere and Artifactual Sources of Attitude Change"
        - title: "The Multifaceted Explanation for the Racial Gap in Carceral State Attitudes (with Allison Anoll and Bryce Williams-Tuggle)"
