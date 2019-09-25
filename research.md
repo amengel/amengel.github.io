@@ -40,6 +40,9 @@ pubs:
       url:     "https://drive.google.com/open?id=1Lgv_zVHRvawSQBD252Z-gvpZh4HQEbRi"
       doi:     "https://doi.org/10.1086/704596"
       abstract: "Preserving national unity in light of diversity—*e pluribus unum*—is a challenge in immigrant-receiving nations like the U.S. We claim that endorsement of this view is structured by the varied bond between ethnic and national identity among immigrant minorities and native majorities, a proposition we test across three studies of U.S. Latinos and Whites. Study 1 uses national survey data to show that ethnic and national identity are associated with support for this objective, though in varied ways among these groups. Studies 2 and 3 sharpen these results experimentally by illuminating the role of elite rhetoric in forging these connections. We show that elite remarks about the (in-)compatibility of ethnic and national identity motivate support for *e pluribus unum* through the specific attachment it influences. That is, elite rhetoric causes shifts in ethnic or national identity, which then asymmetrically shapes support for *e pluribus unum* among Latinos and Whites."
+      media:
+        - name: "The Guardian"
+          url: "https://www.theguardian.com/commentisfree/2019/sep/08/insights-big-girls-blouse-girly-swot-prime-minister-should-choose-insults-more-carefully"
 
     - title:   "Trumped by Race: Explanations for Race’s Influence on Whites’ Votes in 2016"
       author:  ""
@@ -71,7 +74,6 @@ pubs:
           url: "https://www.nationalreview.com/corner/elizabeth-warren-and-the-myth-of-momentum/"
       
 working:
-       - title:   "The Content of their Coverage:  Contrasting Racially Conservative and Liberal Elite Rhetoric (revise and resubmit at Politics, Groups, and Identities)"
        - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
        - title: "The (Un)Changing Nature of Whites' Racial Attitudes: Distinguishing Sincere and Artifactual Sources of Attitude Change"
        - title: "The Multifaceted Explanation for the Racial Gap in Carceral State Attitudes (with Allison Anoll and Bryce Williams-Tuggle)"
