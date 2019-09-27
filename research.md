@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 pubs:
 
-    - title:   "Racial Attitudes through a Partisan Lens"
+    - title:   "The Content of their Coverage: Contrasting Racially Conservative and Liberal Elite Rhetoric"
       author:  ""
       journal: "Politics, Groups, and Identities"
       year:    "Forthcoming"
