@@ -34,7 +34,7 @@ pubs:
 
     - title:   "*E Pluribus Unum?* How Ethnic and National Identity Motivate Individual Reactions to a Political Ideal"
       author:  ""
-      journal: "The Journal of Politics 81(4)"
+      journal: "The Journal of Politics 81(4): 1420--1433"
       note:    "with Efrén O. Pérez and Maggie Deichert"
       year:    "2019"
       url:     "https://drive.google.com/open?id=1Lgv_zVHRvawSQBD252Z-gvpZh4HQEbRi"
