@@ -8,7 +8,7 @@ pubs:
       author:  ""
       journal: "Politics, Groups, and Identities"
       year:    "Forthcoming"
-      #url:     "https://drive.google.com/open?id=1sCiTp6ACPYasBq00opoRdEragvpsuWCS"
+      url:     "https://drive.google.com/file/d/12EBrKvvqsjn0tldu27GJ7KDtKaT-tB2v/view?usp=sharing"
       #doi:     "https://doi.org/10.1007/s11109-018-09519-4"
       abstract: "Theoretical and empirical evidence suggest that how elites talk about race may shape mass racial attitudes. But current work limits understanding this possibility by not systematically characterizing elite rhetoric on race. To shed light on the nature of racially liberal and conservative elite rhetoric, and therefore the potential for elites to shape mass racial attitudes, I analyze transcripts from two partisan news shows: The Rachel Maddow Show and The O’Reilly Factor. Pairing a case study with text-as-data methods, I provide insight into themes constituting racially liberal and conservative elite discourse. Racial liberals like Maddow emphasize that race matters–racial bias and discrimination still shape nonwhites’ life chances. In contrast, racial conservatives like O’Reilly contend that race does not shape life chances and serves only as an attention-seeking device. Identifying these divides helps shed light on the origins and dynamics of mass racial attitudes."
 
