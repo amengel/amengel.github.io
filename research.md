@@ -80,7 +80,7 @@ pubs:
 working:
        - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
        - title: "The (Un)Changing Nature of Whites' Racial Attitudes: Distinguishing Sincere and Artifactual Sources of Attitude Change"
-       - title: "The Multifaceted Explanation for the Racial Gap in Carceral State Attitudes (with Allison Anoll and Bryce Williams-Tuggle)"
+       - title: "Explaining the Racial Gap in Carceral State Attitudes (with Allison Anoll and Bryce Williams-Tuggle)"
        - title: "The Mass Public's View of Implicit Bias, with Implications for Scientific Communication in a Polarized Age (with Cindy D. Kam)"
        - title: "Improving the Measurement of Authoritarianism (with Stanley Feldman and Marc Hetherington)"
        - title:   "Worldview and Partisanship (with Marc Hetherington and Pamela Conover)"
