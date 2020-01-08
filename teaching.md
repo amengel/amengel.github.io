@@ -6,7 +6,7 @@ title: Teaching
 This page is under active development. Check back for new additions.
 
 ## Courses Offered
-* Survey Research (Brown University, scheduled Spring 2020, Graduate Level)
+* [Survey Research](https://drive.google.com/open?id=1co08h6U8vtSTfOYvujxkuwv_UY3pUDZS) (Brown University, Graduate Level)
 
 ## Statistical Computing Resources
 * [Annotated R code](https://drive.google.com/open?id=1BMEAyO3Er87W7kJh4PODDMXYgMZRbsj5) to get up and going with the language, prepared for entering Vanderbilt graduate students ([data](https://drive.google.com/open?id=1e1x_YD4foEKYiFc2zihzlB7eCqjjBBvB), [exercises](https://drive.google.com/open?id=1lKvFP3O9d2qexc-WBVrtNSezsPLNtrm5), and [exercises key](https://drive.google.com/open?id=1kJlOdOJfxksDj_NcW3OiXwWk2n6W5JoQ))
