@@ -8,7 +8,7 @@ pubs:
       author:  ""
       journal: "Politics, Groups, and Identities"
       year:    "Forthcoming"
-      url:     "https://drive.google.com/open?id=12EBrKvvqsjn0tldu27GJ7KDtKaT-tB2v"
+      url:     "https://drive.google.com/open?id=1FvcFyMfhxMOgW2hPgNLPdNkBS676XCnG"
       doi:     "https://doi.org/10.1080/21565503.2019.1674672"
       abstract: "Theoretical and empirical evidence suggest that how elites talk about race may shape mass racial attitudes. But current work limits understanding this possibility by not systematically characterizing elite rhetoric on race. To shed light on the nature of racially liberal and conservative elite rhetoric, and therefore the potential for elites to shape mass racial attitudes, I analyze transcripts from two partisan news shows: The Rachel Maddow Show and The O’Reilly Factor. Pairing a case study with text-as-data methods, I provide insight into themes constituting racially liberal and conservative elite discourse. Racial liberals like Maddow emphasize that race matters–racial bias and discrimination still shape nonwhites’ life chances. In contrast, racial conservatives like O’Reilly contend that race does not shape life chances and serves only as an attention-seeking device. Identifying these divides helps shed light on the origins and dynamics of mass racial attitudes."
 
@@ -16,7 +16,7 @@ pubs:
       author:  ""
       journal: "British Journal of Political Science"
       year:    "Forthcoming"
-      url:     "https://drive.google.com/open?id=1sCiTp6ACPYasBq00opoRdEragvpsuWCS"
+      url:     "https://drive.google.com/open?id=1_um8vZ3ZHffa5mdeN-yEcKEVXTtEp7kD"
       doi:     "https://doi.org/10.1017/S0007123419000437"
       abstract: "The conventional wisdom is that racial attitudes, by forming through early socialization processes, are causally prior to most things political, including whites’ party identifications. Yet, a broad literature demonstrates that partisanship can shape mass attitudes. I argue that this influence extends even to presumptively fundamental predispositions like racial attitudes. Applying cross-lagged models to panel data from the 1990s and 2000s, I demonstrate that whites align their racial attitudes with their party loyalties. Partisanship’s influence is more pronounced in the latter time period, results consistent with a view that changes in the political context can make partisanship a more likely causal force on other attitudes. Racial concerns not only provide a foundation for political conflict, but my results reveal that political processes can actually increase or decrease racial animus."
       media:
