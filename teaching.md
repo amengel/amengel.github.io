@@ -5,10 +5,10 @@ title: Teaching
 ---
 ## Courses Offered
 ### Undergraduate Level
-* Research Methods in Political Science (UNC, Greesnboro)
+* Research Methods in Political Science (UNC, Greensboro)
 
 ### Graduate Level
-* Quantitative Analysis and Program Evaluation (UNC, Greesnboro)
+* Quantitative Analysis and Program Evaluation (UNC, Greensboro)
 * [Survey Research](https://drive.google.com/open?id=1IieavhvGK4X5ZscPwkjMhSi06xN8HWOz) (Brown University)
 
 ## Statistical Computing Resources
