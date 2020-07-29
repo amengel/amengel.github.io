@@ -24,6 +24,8 @@ pubs:
           url: "https://www.npr.org/2019/09/21/762988657/white-liberals-adopt-more-progressive-positions-on-race"
         - name: "NPR"
           url: "https://www.npr.org/2019/10/01/763383478/how-white-liberals-became-woke-radically-changing-their-outlook-on-race"
+        - name: "Sinclair"
+          url: "https://wjla.com/news/nation-world/researchers-white-people-make-up-large-portion-of-protesters"
 
 
 
