@@ -14,10 +14,11 @@ Methodologically I am interested in questions related to linking theoretical con
 
 
 ## Contact
-Taubman Center for American Politics and Policy <br />
-Box 1970 <br />
-111 Thayer Street <br />
-Providence, RI 02912 <br />
-Email: [andrew_engelhardt@brown.edu]
+The Department of Political Science<br />
+University of North Carolina at Greensboro<br />
+324 Curry Building<br />
+PO Box 26170 <br />
+Greensboro, NC 27402 <br />
+Email: [amengelhard@uncg.edu]
 
-[andrew_engelhardt@brown.edu]: mailto:andrew_engelhardt@brown.edu
+[amengelhard@uncg.edu]: mailto:amengelhard@uncg.edu
