@@ -5,7 +5,7 @@ title: Teaching
 ---
 ## Courses Offered
 ### Undergraduate Level
-* Research Methods in Political Science (UNC, Greensboro)
+* [Research Methods in Political Science](https://drive.google.com/file/d/1pQpJKITM1NffZoeNV0JSko5buqFk4cmF/view?usp=sharing) (UNC, Greensboro)
 
 ### Graduate Level
 * Quantitative Analysis and Program Evaluation (UNC, Greensboro)
