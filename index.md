@@ -15,7 +15,7 @@ Methodologically I am interested in questions related to linking theoretical con
 
 ## Contact
 The Department of Political Science<br />
-University of North Carolina at Greensboro<br />
+University of North Carolina, Greensboro<br />
 324 Curry Building<br />
 PO Box 26170 <br />
 Greensboro, NC 27402 <br />
