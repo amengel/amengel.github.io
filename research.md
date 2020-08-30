@@ -31,9 +31,9 @@ pubs:
 
     - title:   "Grand Old (Tailgate) Party? Partisan discrimination in apolitical settings"
       author:  ""
-      journal: "Political Behavior"
+      journal: "Political Behavior 42(3): 769–789"
       note:    "with Stephen M. Utych"
-      year:    "Forthcoming"
+      year:    "2020"
       url:     "https://drive.google.com/open?id=1J-C4qbWRQg7eWJZpa-osGKkotAyhzSsK"
       doi:     "https://doi.org/10.1007/s11109-018-09519-4"
       abstract: "Recent work in political science demonstrates that the American public is strongly divided on partisan lines. Levels of affective polarization are so great, it seems, that partisanship even shapes behavior in apolitical settings. However, this literature does not account for other salient identity dimensions on which people make decisions in apolitical settings, potentially stacking the deck in favor of partisanship. We address this limitation with a pair of experiments studying price discrimination among college football fans. We find that partisan discrimination exists, even when the decision context explicitly calls attention to another social identity. But, importantly, this appears to function mostly as in-group favoritism rather than out-group hostility."
