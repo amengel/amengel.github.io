@@ -108,6 +108,6 @@ working:
 ## Working Papers and Work in Progress
 {% assign thumbnail="left" %}
 {% for pub in page.working %}
-{{pub.title}}({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})
+[{{pub.title}}]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})
 {% if pub.abstract %}**Abstract**:  <span style="font-size:.8em;">{{pub.abstract}}</span> {% endif %}
 {% endfor %}
