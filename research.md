@@ -83,6 +83,8 @@ pubs:
       
 working:
        - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
+       - title: "Generational Persistence in the Nature of White Racial Attitudes"
+         url: "https://drive.google.com/file/d/10N0NWZ7hDFCr0-fyDE5cWdhp6bCu0j1b/view?usp=sharing"
        - title: "The (Un)Changing Nature of Whites' Racial Attitudes: Distinguishing Sincere and Artifactual Sources of Attitude Change"
        - title: "Explaining the Racial Gap in Carceral State Attitudes (with Allison Anoll and Bryce Williams-Tuggle)"
        - title: "The Mass Public's View of Implicit Bias, with Implications for Scientific Communication in a Polarized Age (with Cindy D. Kam)"
@@ -106,6 +108,6 @@ working:
 ## Working Papers and Work in Progress
 {% assign thumbnail="left" %}
 {% for pub in page.working %}
-{{pub.title}}
+{{pub.title}}({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})
 {% if pub.abstract %}**Abstract**:  <span style="font-size:.8em;">{{pub.abstract}}</span> {% endif %}
 {% endfor %}
