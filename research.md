@@ -86,7 +86,6 @@ working:
        - title: "Generational Persistence in the Nature of White Racial Attitudes"
          url: "https://drive.google.com/file/d/10N0NWZ7hDFCr0-fyDE5cWdhp6bCu0j1b/view?usp=sharing"
        - title: "The (Un)Changing Nature of Whites' Racial Attitudes: Distinguishing Sincere and Artifactual Sources of Attitude Change"
-       - title: "Explaining the Racial Gap in Carceral State Attitudes (with Allison Anoll and Bryce Williams-Tuggle)"
        - title: "The Mass Public's View of Implicit Bias, with Implications for Scientific Communication in a Polarized Age (with Cindy D. Kam)"
        - title: "Improving the Measurement of Authoritarianism (with Stanley Feldman and Marc Hetherington)"
          url: "https://drive.google.com/file/d/1ioxftNYEqSnrBSG64myip2WYo5I7C4Qr/view?usp=sharing"         
