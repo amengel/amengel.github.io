@@ -5,7 +5,7 @@ title: Teaching
 ---
 ## Courses Offered
 ### Undergraduate Level
-* Individual and Politics (UNC, Greensboro; Scheduled Spring 2021)
+* Individual in Politics (UNC, Greensboro; Scheduled Spring 2021)
 * [Research Methods in Political Science](https://drive.google.com/file/d/1AroXs4p1Qo4edFU74LaVOci-7Dg7aJu4/view?usp=sharing) (UNC, Greensboro)
 
 ### Graduate Level
