@@ -100,6 +100,11 @@ working:
 
 
 ---
+
+Jump to [Articles](#peer-reviewed-publications), [Book Chapters](#book-chapters), [Working Papers](#working-papers)
+
+---
+
 ## Articles
 {% assign thumbnail="left" %}
 
@@ -112,6 +117,8 @@ working:
 
 {% endfor %}
 
+-----
+
 ## Book Chapters
 {% assign thumbnail="left" %}
 
@@ -123,6 +130,8 @@ working:
 {% if pub.abstract %}**Abstract**:  <span style="font-size:.8em;">{{pub.abstract}}</span> {% endif %}
 
 {% endfor %}
+
+-----
 
 ## Working Papers and Work in Progress
 {% assign thumbnail="left" %}
