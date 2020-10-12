@@ -81,6 +81,13 @@ pubs:
         - name: "The National Review"
           url: "https://www.nationalreview.com/corner/elizabeth-warren-and-the-myth-of-momentum/"
       
+      
+chapters:
+       - title: "The Mass Public's View of Implicit Bias, with Implications for Scientific Communication in a Polarized Age"
+         note: "with Cindy D. Kam" 
+         year: ""
+         book: "The Cambridge Handbook of Implicit Bias and Racism"
+
 working:
        - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
        - title: "Generational Persistence in the Nature of White Racial Attitudes"
@@ -93,12 +100,24 @@ working:
 
 
 ---
-## Publications
+## Articles
 {% assign thumbnail="left" %}
 
 {% for pub in page.pubs %}
 {% if pub.image %} {% include image.html url=pub.image caption="" height="100px" align=thumbnail %} {% endif %}
 *{{pub.year}}*  [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %}) {{pub.author}} *{{pub.journal}}* 
+{% if pub.note %} ({{pub.note}}){% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]<br />{% endif %}
+{% if pub.media %} Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}<br />{% endif %}
+{% if pub.abstract %}**Abstract**:  <span style="font-size:.8em;">{{pub.abstract}}</span> {% endif %}
+
+{% endfor %}
+
+## Book Chapters
+{% assign thumbnail="left" %}
+
+{% for pub in page.chapters %}
+{% if pub.image %} {% include image.html url=pub.image caption="" height="100px" align=thumbnail %} {% endif %}
+*{{pub.year}}*  [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %}) {{pub.author}} *{{pub.book}}* 
 {% if pub.note %} ({{pub.note}}){% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]<br />{% endif %}
 {% if pub.media %} Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}<br />{% endif %}
 {% if pub.abstract %}**Abstract**:  <span style="font-size:.8em;">{{pub.abstract}}</span> {% endif %}
