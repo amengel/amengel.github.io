@@ -85,7 +85,7 @@ pubs:
 chapters:
        - title: "The Mass Public's View of Implicit Bias, with Implications for Scientific Communication in a Polarized Age"
          note: "with Cindy D. Kam" 
-         year: ""
+         year: "Forthcoming"
          book: "The Cambridge Handbook of Implicit Bias and Racism"
 
 working:
@@ -117,7 +117,7 @@ working:
 
 {% for pub in page.chapters %}
 {% if pub.image %} {% include image.html url=pub.image caption="" height="100px" align=thumbnail %} {% endif %}
-*{{pub.year}}*  [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %}) {{pub.author}} *{{pub.book}}* 
+*{{pub.year}}*  [**{{pub.title}}**]{{pub.author}} *{{pub.book}}* 
 {% if pub.note %} ({{pub.note}}){% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]<br />{% endif %}
 {% if pub.media %} Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}<br />{% endif %}
 {% if pub.abstract %}**Abstract**:  <span style="font-size:.8em;">{{pub.abstract}}</span> {% endif %}
