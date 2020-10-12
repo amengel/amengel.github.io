@@ -87,6 +87,7 @@ chapters:
          note: "with Cindy D. Kam" 
          year: "Forthcoming"
          book: "The Cambridge Handbook of Implicit Bias and Racism"
+         author: "Krosnick, J.A., Stark, T. H & Scott, A.L. Eds."
 
 working:
        - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
