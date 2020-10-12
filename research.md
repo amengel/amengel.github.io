@@ -101,7 +101,7 @@ working:
 
 ---
 
-Jump to [Articles](#peer-reviewed-publications), [Book Chapters](#book-chapters), [Working Papers](#working-papers)
+Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers](#working-papers)
 
 ---
 
@@ -133,7 +133,7 @@ Jump to [Articles](#peer-reviewed-publications), [Book Chapters](#book-chapters)
 
 -----
 
-## Working Papers and Work in Progress
+## Working Papers
 {% assign thumbnail="left" %}
 {% for pub in page.working %}
 {% if pub.url %}[{{pub.title}}]({{pub.url}}){% else %}{{pub.title}}{% endif %}
