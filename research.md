@@ -26,6 +26,8 @@ pubs:
           url: "https://www.npr.org/2019/10/01/763383478/how-white-liberals-became-woke-radically-changing-their-outlook-on-race"
         - name: "Sinclair"
           url: "https://wjla.com/news/nation-world/researchers-white-people-make-up-large-portion-of-protesters"
+        - name: "The New York Times"
+          url: "https://www.nytimes.com/2020/06/12/us/george-floyd-white-protesters.html"
 
 
 
