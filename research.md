@@ -39,6 +39,9 @@ pubs:
       url:     "https://drive.google.com/open?id=1J-C4qbWRQg7eWJZpa-osGKkotAyhzSsK"
       doi:     "https://doi.org/10.1007/s11109-018-09519-4"
       abstract: "Recent work in political science demonstrates that the American public is strongly divided on partisan lines. Levels of affective polarization are so great, it seems, that partisanship even shapes behavior in apolitical settings. However, this literature does not account for other salient identity dimensions on which people make decisions in apolitical settings, potentially stacking the deck in favor of partisanship. We address this limitation with a pair of experiments studying price discrimination among college football fans. We find that partisan discrimination exists, even when the decision context explicitly calls attention to another social identity. But, importantly, this appears to function mostly as in-group favoritism rather than out-group hostility."
+      media:
+        - name: "PsyPost"
+          url: "https://www.psypost.org/2021/01/study-on-football-fans-finds-political-discrimination-extends-to-non-partisan-contexts-59104"
 
     - title:   "*E Pluribus Unum?* How Ethnic and National Identity Motivate Individual Reactions to a Political Ideal"
       author:  ""
