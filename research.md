@@ -4,6 +4,13 @@ permalink: /research/
 title: Research
 pubs:
 
+    - title:   "Generational Persistence in the Nature of White Racial Attitudes"
+      author:  ""
+      journal: "Public Opinion Quarterly"
+      year:    "Forthcoming"
+      url:     "https://drive.google.com/file/d/10N0NWZ7hDFCr0-fyDE5cWdhp6bCu0j1b/view?usp=sharing"
+      abstract: "Race and racial attitudes are central to American politics. To understand these relationships, scholars often use measures developed in earlier social and political contexts. A key issue is thus whether such measures consistently capture the same construct across varied contexts. Changes in the social and political context may result in generational differences in how people interpret certain racial attitude items given different socialization experiences. Such differences make generational comparisons on these items invalid because the items capture different considerations. I build on recent work investigating this possibility and test the racial resentment measure’s equivalence between Millennial and older Whites. Despite potential generational differences, I find that the racial resentment measure operates equivalently across generations using two different analytical approaches (retrospective thought-listing and multi-group confirmatory factor analysis). The racial resentment measure offers valid insights into racial attitudes across generational cohorts. I conclude by discussing what this finding implies for emerging work on the manifestations of prejudiced attitudes among Millennial Whites and also suggest potential points of improvement for the measure."
+
     - title:   "The Content of their Coverage: Contrasting Racially Conservative and Liberal Elite Rhetoric"
       author:  ""
       journal: "Politics, Groups, and Identities"
@@ -99,8 +106,6 @@ chapters:
 
 working:
        - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
-       - title: "Generational Persistence in the Nature of White Racial Attitudes"
-         url: "https://drive.google.com/file/d/10N0NWZ7hDFCr0-fyDE5cWdhp6bCu0j1b/view?usp=sharing"
        - title: "The (Un)Changing Nature of Whites' Racial Attitudes: Distinguishing Sincere and Artifactual Sources of Attitude Change"
        - title: "Improving the Measurement of Authoritarianism (with Stanley Feldman and Marc Hetherington)"
          url: "https://drive.google.com/file/d/1ioxftNYEqSnrBSG64myip2WYo5I7C4Qr/view?usp=sharing"         
