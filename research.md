@@ -4,6 +4,12 @@ permalink: /research/
 title: Research
 pubs:
 
+    - title:   "Observational Equivalence in Explaining Attitude Change: Have White Racial Attitudes Genuinely Changed?"
+      author:  ""
+      journal: "American Journal of Political Science"
+      year:    "Accepted"
+      abstract: "Understanding when and why White racial attitudes change is important for understanding their politics. Critically, surveys reveal Whites’ views of Black Americans are changing recently, an important result given conventional wisdom that these are stable orientations. I test four possible explanations for these shifting views: genuine attitude change, social desirability, partisan expressive responding, and changing racial attitude measure performance. Importantly, these explanations produce observationally equivalent survey toplines. To adjudicate between them I use the measurement equivalence framework and examine how Whites answer the racial resentment measure. Evidence from multi-group confirmatory factor analysis models supports genuine attitude change. Substantively, this suggests these changes may have important political implications. Methodologically, it suggests partisan expressive responding may have limits, indicates social desirability pressures have not changed how Whites answer at least one racial attitude measure, and offers additional validity evidence for the racial resentment measure."
+
     - title:   "Generational Persistence in the Nature of White Racial Attitudes"
       author:  ""
       journal: "Public Opinion Quarterly"
@@ -106,7 +112,6 @@ chapters:
 
 working:
        - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
-       - title: "The (Un)Changing Nature of Whites' Racial Attitudes: Distinguishing Sincere and Artifactual Sources of Attitude Change"
        - title: "Improving the Measurement of Authoritarianism (with Stanley Feldman and Marc Hetherington)"
          url: "https://drive.google.com/file/d/1ioxftNYEqSnrBSG64myip2WYo5I7C4Qr/view?usp=sharing"         
        - title:   "Worldview and Partisanship (with Marc Hetherington and Pamela Conover)"
