@@ -4,6 +4,14 @@ permalink: /research/
 title: Research
 pubs:
 
+    - title:   "Advancing the Measurement of Authoritarianism"
+      author:  ""
+      journal: "Political Behavior"
+      note:    "with Stanley Feldman and Marc J. Hetherington"
+      year:    "Acceptedd"
+      url:     "https://drive.google.com/file/d/1ioxftNYEqSnrBSG64myip2WYo5I7C4Qr/view?usp=sharing"
+      abstract: "Theoretical and empirical evidence suggest that how elites talk about race may shape mass racial attitudes. But current work limits understanding this possibility by not systematically characterizing elite rhetoric on race. To shed light on the nature of racially liberal and conservative elite rhetoric, and therefore the potential for elites to shape mass racial attitudes, I analyze transcripts from two partisan news shows: The Rachel Maddow Show and The O’Reilly Factor. Pairing a case study with text-as-data methods, I provide insight into themes constituting racially liberal and conservative elite discourse. Racial liberals like Maddow emphasize that race matters–racial bias and discrimination still shape nonwhites’ life chances. In contrast, racial conservatives like O’Reilly contend that race does not shape life chances and serves only as an attention-seeking device. Identifying these divides helps shed light on the origins and dynamics of mass racial attitudes."
+
     - title:   "Observational Equivalence in Explaining Attitude Change: Have White Racial Attitudes Genuinely Changed?"
       author:  ""
       journal: "American Journal of Political Science"
@@ -111,9 +119,7 @@ chapters:
          author: "Krosnick, J.A., Stark, T. H & Scott, A.L. Eds."
 
 working:
-       - title:   "The Limits of Agenda Setting? Framing Race’s Importance"
-       - title: "Improving the Measurement of Authoritarianism (with Stanley Feldman and Marc Hetherington)"
-         url: "https://drive.google.com/file/d/1ioxftNYEqSnrBSG64myip2WYo5I7C4Qr/view?usp=sharing"         
+       - title:   "The Limits of Agenda Setting? Framing Race’s Importance" 
        - title:   "Worldview and Partisanship (with Marc Hetherington and Pamela Conover)"
 
 
