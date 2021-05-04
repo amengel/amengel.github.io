@@ -10,6 +10,7 @@ pubs:
       note:    "with Stanley Feldman and Marc J. Hetherington"
       year:    "Accepted"
       url:     "https://drive.google.com/file/d/1ioxftNYEqSnrBSG64myip2WYo5I7C4Qr/view?usp=sharing"
+      doi:     "https://doi.org/10.1007/s11109-021-09718-6"
       abstract: "Popular support for ethnocentric, nationalistic politicians, parties, and policies around the world has renewed interest in authoritarianism. Measured by people’s preferences for certain desirable qualities in children, scholars have identified relationships between it and support for right wing populist parties and the ideas they champion. But despite authoritarianism’s unique ability to explain present political dynamics, scholars have devoted too little attention to this operationalization’s measurement properties. We address these and other issues here. We demonstrate that 1) the childrearing measure taps authoritarianism, 2) it is exogenous to a wide range of political attitudes, 3) its temporal stability is consistent with its conceptualization as a personality adaptation and 4) adding new items to the existing set improves our ability to measure authoritarianism. We thus provide scholars with a measure that better explains political opinions, which should allow future work to better identify when, how, and among whom authoritarianism explains political thinking."
 
     - title:   "Observational Equivalence in Explaining Attitude Change: Have White Racial Attitudes Genuinely Changed?"
