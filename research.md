@@ -120,7 +120,7 @@ chapters:
          author: "Krosnick, J.A., Stark, T. H & Scott, A.L. Eds."
 
 working:
-       - title:   "The Limits of Agenda Setting? Framing Race’s Importance" 
+       - title:   "Limits to Agenda Setting? The Case of Public Concern with Race" 
        - title:   "Worldview and Partisanship (with Marc Hetherington and Pamela Conover)"
 
 
