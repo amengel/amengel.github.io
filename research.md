@@ -36,8 +36,8 @@ pubs:
 
     - title:   "Racial Attitudes through a Partisan Lens"
       author:  ""
-      journal: "British Journal of Political Science"
-      year:    "Forthcoming"
+      journal: "British Journal of Political Science 51(3): 1062-1079"
+      year:    "2021"
       url:     "https://drive.google.com/open?id=1_um8vZ3ZHffa5mdeN-yEcKEVXTtEp7kD"
       doi:     "https://doi.org/10.1017/S0007123419000437"
       abstract: "The conventional wisdom is that racial attitudes, by forming through early socialization processes, are causally prior to most things political, including whites’ party identifications. Yet, a broad literature demonstrates that partisanship can shape mass attitudes. I argue that this influence extends even to presumptively fundamental predispositions like racial attitudes. Applying cross-lagged models to panel data from the 1990s and 2000s, I demonstrate that whites align their racial attitudes with their party loyalties. Partisanship’s influence is more pronounced in the latter time period, results consistent with a view that changes in the political context can make partisanship a more likely causal force on other attitudes. Racial concerns not only provide a foundation for political conflict, but my results reveal that political processes can actually increase or decrease racial animus."
