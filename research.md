@@ -58,6 +58,8 @@ pubs:
           url: "https://www.nytimes.com/2020/06/12/us/george-floyd-white-protesters.html"
         - name: "FiveThirtyEight"
           url: "https://fivethirtyeight.com/features/white-democrats-are-wary-of-big-ideas-to-address-racial-inequality/"
+        - name: "Science of Politics Podcast"
+          url: "https://www.niskanencenter.org/how-our-politics-changes-our-racial-views-and-identities/"
           
 
 
