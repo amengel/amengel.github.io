@@ -5,6 +5,7 @@ title: Teaching
 ---
 ## Courses Offered
 ### Undergraduate Level
+* [Identities and Politics](https://drive.google.com/file/d/1Md9prD66yWivGdsMybEkPnw7NoDtK81U/view?usp=sharing) (UNC, Greensboro)
 * [Individual in Politics](https://drive.google.com/file/d/1WnPAWBtQaV5dkgL13YsoS7gNqujMsUv6/view?usp=sharing) (UNC, Greensboro)
 * [Research Methods in Political Science](https://drive.google.com/file/d/1AroXs4p1Qo4edFU74LaVOci-7Dg7aJu4/view?usp=sharing) (UNC, Greensboro)
 
