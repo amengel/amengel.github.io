@@ -7,7 +7,7 @@ pubs:
     - title:   "Black Lives, White Kids: White Parenting Practices Following Black-Led Protests"
       author:  ""
       journal: "Perspectives on Politics"
-      note:    "with Allison P Anoll and Mackenzie Israel-Trummel"
+      note:    "with Allison P. Anoll and Mackenzie Israel-Trummel"
       year:    "Forthcoming"
       url: ""
       abstract: "Summer 2020 saw widespread protests under the banner, Black Lives Matter. Coupled with the global pandemic that kept America’s children in the predominant care of their parents, we argue the latter half of 2020 offers a unique moment to consider Whites’ race-focused parenting practices. We use Google Trends data and posts on public parenting Facebook pages to show that the remarkable levels of protest activity in summer 2020 served as a focusing event that not only directed Americans’ attention to racial concepts, but connected those concepts to parenting. Using a national survey of non-Hispanic White parents with White school-age children, we show that most White parents spoke with their children about race during this period and nearly three-quarters took actions to increase racial diversity in their children’s environment or introduce them to racial politics. But, the data also show parenting practices rife with uncertainty and deep partisan, gender, and socioeconomic divisions. Drawing upon our findings, we call for a renewed focus on political socialization that considers how parenting choices are shaped by political events—including Black Lives Matter— and the possible long-term consequences of racial parenting practices on politics."
