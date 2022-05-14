@@ -3,6 +3,7 @@ http://localhost:4000/much-worse-jekyll-theme/404
 http://localhost:4000/much-worse-jekyll-theme/about/
 http://localhost:4000/much-worse-jekyll-theme/blog/
 http://localhost:4000/much-worse-jekyll-theme/cv/
+http://localhost:4000/much-worse-jekyll-theme/fecd/
 http://localhost:4000/much-worse-jekyll-theme/feed.xml
 http://localhost:4000/much-worse-jekyll-theme/
 http://localhost:4000/much-worse-jekyll-theme/css/main.css
