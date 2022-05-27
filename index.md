@@ -10,6 +10,7 @@ I am an Assistant Professor of <a href="https://psc.uncg.edu/">Political Science
 
 I study the nexus of intergroup relations and politics to understand how residents of democracies navigate diversity. This includes investigating the origins and implications of individuals’ social identities and intergroup attitudes. To facilitate this, I also work on issues related to linking theoretical constructs with empirical measures. Across projects I rely on diverse methods, study different populations, and draw from different theoretical approaches. I have published articles on these topics in venues including the <i>American Journal of Political Science</i>, <i>Journal of Politics</i>, <i>British Journal of Political Science</i>, and <i> Perspectives on Politics</i>. My work has also been covered in outlets including <i>The Atlantic</i>, <i>The Guardian</i>, <i>The New York Times</i>, and <i>NPR</i>.<br />
 
+I also contributed to the 2021-2022 <a href="https://fecdsurveyreport.web.unc.edu/">Free Expression and Constructive Dialogue</a> project at eight University of North Carolina system institutions.
 
 ## Contact
 The Department of Political Science<br />
