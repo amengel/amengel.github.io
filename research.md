@@ -65,6 +65,8 @@ pubs:
           url: "https://wjla.com/news/nation-world/researchers-white-people-make-up-large-portion-of-protesters"
         - name: "The New York Times"
           url: "https://www.nytimes.com/2020/06/12/us/george-floyd-white-protesters.html"
+        - name: "The New York Times"
+          url: "https://www.nytimes.com/2022/08/10/opinion/republicans-democrats-polarization-inequality.html"
         - name: "FiveThirtyEight"
           url: "https://fivethirtyeight.com/features/white-democrats-are-wary-of-big-ideas-to-address-racial-inequality/"
         - name: "Science of Politics Podcast"
