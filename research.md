@@ -132,15 +132,21 @@ pubs:
       
       
 chapters:
+       - title: "Worldview and Partisanship"
+         note: "with Marc Hetherington and Pamela Conover" 
+         year: "Forthcoming"
+         book: "Reconsidering Parties and Partisanship"
+         author: "Karpowitz, C. F. and Pope, J. C. Eds."
        - title: "The Mass Public's View of Implicit Bias, with Implications for Scientific Communication in a Polarized Age"
          note: "with Cindy D. Kam" 
          year: "Forthcoming"
          book: "The Cambridge Handbook of Implicit Bias and Racism"
-         author: "Krosnick, J.A., Stark, T. H & Scott, A.L. Eds."
+         author: "Krosnick, J. A., Stark, T. H. & Scott, A. L. Eds."
 
 working:
        - title:   "Limits to Agenda Setting? The Case of Public Concern with Race" 
-       - title:   "Worldview and Partisanship (with Marc Hetherington and Pamela Conover)"
+       - title:   "A Drop in the Ocean: How Priors Anchor Attitudes Toward the American Carceral State (with Allison Anoll)"
+       - title:   "Raising the Future: Race and the Politics of Child-Rearing (in progress book manuscript with Allison Anoll and Mackenzie Israel-Trummel)"
 
 
 ---
