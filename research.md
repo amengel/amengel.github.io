@@ -132,12 +132,12 @@ pubs:
       
       
 chapters:
-       - title: "Worldview and Partisanship"
+       - title: "Worldview and Partisanship."
          note: "with Marc Hetherington and Pamela Conover" 
          year: "Forthcoming"
          book: "Reconsidering Parties and Partisanship"
          author: "Karpowitz, C. F. and Pope, J. C. Eds."
-       - title: "The Mass Public's View of Implicit Bias, with Implications for Scientific Communication in a Polarized Age"
+       - title: "The Mass Public's View of Implicit Bias, with Implications for Scientific Communication in a Polarized Age."
          note: "with Cindy D. Kam" 
          year: "Forthcoming"
          book: "The Cambridge Handbook of Implicit Bias and Racism"
@@ -174,7 +174,7 @@ Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers]
 
 {% for pub in page.chapters %}
 {% if pub.image %} {% include image.html url=pub.image caption="" height="100px" align=thumbnail %} {% endif %}
-*{{pub.year}}*  **{{pub.title}}** {{pub.author}} *{{pub.book}}* 
+*{{pub.year}}*  **{{pub.title}}** *{{pub.book}}* {{pub.author}}
 {% if pub.note %} ({{pub.note}}){% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]<br />{% endif %}
 {% if pub.media %} Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}<br />{% endif %}
 {% if pub.abstract %}**Abstract**:  <span style="font-size:.8em;">{{pub.abstract}}</span> {% endif %}
