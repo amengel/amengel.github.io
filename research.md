@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 pubs:
     
-     - title:   "A Drop in the Ocean: How Priors Anchor Attitudes Toward the American Carceral State"
+    - title:   "A Drop in the Ocean: How Priors Anchor Attitudes Toward the American Carceral State"
       author:  ""
       journal: "British Journal of Political Science"
       note:    "with Allison P. Anoll"
