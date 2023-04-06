@@ -23,8 +23,8 @@ pubs:
 
     - title:   "Observational Equivalence in Explaining Attitude Change: Have White Racial Attitudes Genuinely Changed?"
       author:  ""
-      journal: "American Journal of Political Science"
-      year:    "Forthcoming"
+      journal: "American Journal of Political Science 67(2):411--425"
+      year:    "2023"
       url:     "https://drive.google.com/file/d/1R8be7g33nXfMwyCD1BpUK-UigrkPtXqO/view?usp=sharing"
       doi:     "https://doi.org/10.1111/ajps.12665"
       abstract: "Understanding when and why White racial attitudes change is important for understanding their politics. Critically, surveys reveal Whites’ views of Black Americans are changing recently, an important result given conventional wisdom that these are stable orientations. I test four possible explanations for these shifting views: genuine attitude change, social desirability, partisan expressive responding, and changing racial attitude measure performance. Importantly, these explanations produce observationally equivalent survey toplines. To adjudicate between them I use the measurement equivalence framework and examine how Whites answer the racial resentment measure. Evidence from multi-group confirmatory factor analysis models supports genuine attitude change. Substantively, this suggests these changes may have important political implications. Methodologically, it suggests partisan expressive responding may have limits, indicates social desirability pressures have not changed how Whites answer at least one racial attitude measure, and offers additional validity evidence for the racial resentment measure."
