@@ -45,7 +45,7 @@ pubs:
       author:  ""
       journal: "Public Opinion Quarterly 85(3): 887-899"
       year:    "2021"
-      url:     "www.amengelhardt.com/files/engelhardt_attitude_persistence_poq.pdf"
+      url:     "https://www.amengelhardt.com/files/engelhardt_attitude_persistence_poq.pdf"
       doi:     "https://doi.org/10.1093/poq/nfab041"
       abstract: "Race and racial attitudes are central to American politics. To understand these relationships, scholars often use measures developed in earlier social and political contexts. A key issue is thus whether such measures consistently capture the same construct across varied contexts. Changes in the social and political context may result in generational differences in how people interpret certain racial attitude items given different socialization experiences. Such differences make generational comparisons on these items invalid because the items capture different considerations. I build on recent work investigating this possibility and test the racial resentment measure’s equivalence between Millennial and older Whites. Despite potential generational differences, I find that the racial resentment measure operates equivalently across generations using two different analytical approaches (retrospective thought-listing and multi-group confirmatory factor analysis). The racial resentment measure offers valid insights into racial attitudes across generational cohorts. I conclude by discussing what this finding implies for emerging work on the manifestations of prejudiced attitudes among Millennial Whites and also suggest potential points of improvement for the measure."
 
@@ -53,7 +53,7 @@ pubs:
       author:  ""
       journal: "Politics, Groups, and Identities 9(5): 935-954"
       year:    "2021"
-      url:     "www.amengelhardt.com/files/engelhardt_race_rhetoric_PGI.pdf"
+      url:     "https://www.amengelhardt.com/files/engelhardt_race_rhetoric_PGI.pdf"
       doi:     "https://doi.org/10.1080/21565503.2019.1674672"
       abstract: "Theoretical and empirical evidence suggest that how elites talk about race may shape mass racial attitudes. But current work limits understanding this possibility by not systematically characterizing elite rhetoric on race. To shed light on the nature of racially liberal and conservative elite rhetoric, and therefore the potential for elites to shape mass racial attitudes, I analyze transcripts from two partisan news shows: The Rachel Maddow Show and The O’Reilly Factor. Pairing a case study with text-as-data methods, I provide insight into themes constituting racially liberal and conservative elite discourse. Racial liberals like Maddow emphasize that race matters–racial bias and discrimination still shape nonwhites’ life chances. In contrast, racial conservatives like O’Reilly contend that race does not shape life chances and serves only as an attention-seeking device. Identifying these divides helps shed light on the origins and dynamics of mass racial attitudes."
 
@@ -61,7 +61,7 @@ pubs:
       author:  ""
       journal: "British Journal of Political Science 51(3): 1062-1079"
       year:    "2021"
-      url:     "www.amengelhardt.com/files/engelhardt_PID_racial_attitudes_bjps.pdf"
+      url:     "https://www.amengelhardt.com/files/engelhardt_PID_racial_attitudes_bjps.pdf"
       doi:     "https://doi.org/10.1017/S0007123419000437"
       abstract: "The conventional wisdom is that racial attitudes, by forming through early socialization processes, are causally prior to most things political, including whites’ party identifications. Yet, a broad literature demonstrates that partisanship can shape mass attitudes. I argue that this influence extends even to presumptively fundamental predispositions like racial attitudes. Applying cross-lagged models to panel data from the 1990s and 2000s, I demonstrate that whites align their racial attitudes with their party loyalties. Partisanship’s influence is more pronounced in the latter time period, results consistent with a view that changes in the political context can make partisanship a more likely causal force on other attitudes. Racial concerns not only provide a foundation for political conflict, but my results reveal that political processes can actually increase or decrease racial animus."
       media:
@@ -88,7 +88,7 @@ pubs:
       journal: "Political Behavior 42(3): 769–789"
       note:    "with Stephen M. Utych"
       year:    "2020"
-      url:     "www.amengelhardt.com/files/engelhardt_utych_PID_football_Behavior.pdf"
+      url:     "https://www.amengelhardt.com/files/engelhardt_utych_PID_football_Behavior.pdf"
       doi:     "https://doi.org/10.1007/s11109-018-09519-4"
       abstract: "Recent work in political science demonstrates that the American public is strongly divided on partisan lines. Levels of affective polarization are so great, it seems, that partisanship even shapes behavior in apolitical settings. However, this literature does not account for other salient identity dimensions on which people make decisions in apolitical settings, potentially stacking the deck in favor of partisanship. We address this limitation with a pair of experiments studying price discrimination among college football fans. We find that partisan discrimination exists, even when the decision context explicitly calls attention to another social identity. But, importantly, this appears to function mostly as in-group favoritism rather than out-group hostility."
       media:
@@ -100,7 +100,7 @@ pubs:
       journal: "The Journal of Politics 81(4): 1420--1433"
       note:    "with Efrén O. Pérez and Maggie Deichert"
       year:    "2019"
-      url:     "www.amengelhardt.com/files/PDE_epluribusunum_JOP.pdf"
+      url:     "https://www.amengelhardt.com/files/PDE_epluribusunum_JOP.pdf"
       doi:     "https://doi.org/10.1086/704596"
       abstract: "Preserving national unity in light of diversity—*e pluribus unum*—is a challenge in immigrant-receiving nations like the U.S. We claim that endorsement of this view is structured by the varied bond between ethnic and national identity among immigrant minorities and native majorities, a proposition we test across three studies of U.S. Latinos and Whites. Study 1 uses national survey data to show that ethnic and national identity are associated with support for this objective, though in varied ways among these groups. Studies 2 and 3 sharpen these results experimentally by illuminating the role of elite rhetoric in forging these connections. We show that elite remarks about the (in-)compatibility of ethnic and national identity motivate support for *e pluribus unum* through the specific attachment it influences. That is, elite rhetoric causes shifts in ethnic or national identity, which then asymmetrically shapes support for *e pluribus unum* among Latinos and Whites."
       media:
@@ -111,7 +111,7 @@ pubs:
       author:  ""
       journal: "Quarterly Journal of Political Science 14(3): 313--328"
       year:    "2019"
-      url:     "www.amengelhardt.com/files/engelhardt_race_votes_qjps.pdf"
+      url:     "https://www.amengelhardt.com/files/engelhardt_race_votes_qjps.pdf"
       doi:     "http://doi.org/10.1561/100.00018068"
       abstract: "Many analyses of the 2016 presidential election suggest that Whites’ racial attitudes played a central role in explaining vote choice, and to a degree greater than preceding years. Most explanations for this outcome emphasize the role that Donald Trump’s campaign played in activating these attitudes. These stories, however, elide an alternative explanation for these same results: a growing polarization in racial attitudes by party driven by changes among Democrats between 2012 and 2016. This matters because the two possibilities—campaign dynamics that increase the relevance of certain attitudes on vote choice or long-term distributional shifts—can produce observationally equivalent regression coefficients. I urge caution against offering singular explanations for why race mattered in 2016 because while it surely did, it is less clear how and, especially, for whom."
       media:
@@ -128,7 +128,7 @@ pubs:
       journal: "The Journal of Politics 81(3): 997--1013"
       note:    "with Joshua D. Clinton and Marc Trussler"
       year:    "2019"
-      url:     "www.amengelhardt.com/files/CET_momentum_JOP.pdf"
+      url:     "https://www.amengelhardt.com/files/CET_momentum_JOP.pdf"
       doi:     "https://doi.org/10.1086/703383"
       abstract: "Notions of momentum loom large in accounts of presidential primaries despite im- precision about its meaning and measurement. Defining momentum as the impact election outcomes have on candidate support above and beyond existing trends and leveraging a rolling cross-section of more than 325,000 interviews to examine daily changes in candidate support in the 2016 nomination contests reveals scant evidence that primary election outcomes uniquely affect respondents’ preferences over the competing candidates. Preferences sometimes respond to election outcomes, but the estimated effects are indistinguishable from effects occurring on non-election days. There is also no evidence that those who should be most receptive to new information are more affected by election outcomes. As a result, our investigation strongly suggests that election outcomes are not uniquely important for affecting opinions and shaping the outcome of nomination contests."
       #image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
