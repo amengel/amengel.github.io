@@ -5,11 +5,14 @@ title: Teaching
 ---
 ## Courses Offered
 ### Undergraduate Level
+* American Election Campaigns (Stony Brook University)
 * [Identities and Politics](https://drive.google.com/file/d/1Md9prD66yWivGdsMybEkPnw7NoDtK81U/view?usp=sharing) (UNC, Greensboro)
 * [Individual in Politics](https://drive.google.com/file/d/1WnPAWBtQaV5dkgL13YsoS7gNqujMsUv6/view?usp=sharing) (UNC, Greensboro)
 * [Research Methods in Political Science](https://drive.google.com/file/d/1e-4UTSZsTeUj5su8WoewBKA-MgC7tDCs/view?usp=sharing) (UNC, Greensboro)
 
 ### Graduate Level
+* Intermediate Statistics (Stony Brook University)
+* Political Psychological Approaches to Race and Ethnic Politics (Stony Brook University)
 * [Quantitative Analysis and Program Evaluation](https://drive.google.com/file/d/1ErYdvJjBmAh-957HDUXW0JpTUkv-Q19i/view?usp=sharing) (UNC, Greensboro)
 * [Survey Research](https://drive.google.com/open?id=1IieavhvGK4X5ZscPwkjMhSi06xN8HWOz) (Brown University)
 
