@@ -14,7 +14,7 @@ pubs:
       
     - title:   "Advancing the Measurement of Authoritarianism"
       author:  ""
-      journal: "Political Behavior (45)2:537-–560"
+      journal: "Political Behavior 45(2):537-–560"
       note:    "with Stanley Feldman and Marc J. Hetherington"
       year:    "2023"
       url:     "https://www.amengelhardt.com/files/efh_authoritarianism_measurement.pdf"
