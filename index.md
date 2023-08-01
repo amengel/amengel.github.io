@@ -6,18 +6,17 @@ permalink: /
 
 {% include image.html url="images/image.png" caption="" max_width="400px" align="right"%}
 
-I am an Assistant Professor of <a href="https://psc.uncg.edu/">Political Science</a> at the University of North Carolina, Greensboro. Before this I was a postdoctoral research associate at Brown University's <a href="https://watson.brown.edu/taubman/">Taubman Center for American Politics and Policy</a> and an affiliate with <a href="https://thepolicylab.brown.edu/">The Policy Lab</a>. I received my PhD in political science from Vanderbilt University.<br />  
+I am an Assistant Professor of <a href="https://www.stonybrook.edu/polsci/">Political Science</a> at Stony Brook University. Before this I was an assistant professor at the <a href="https://psc.uncg.edu/">University of North Carolina, Greensboroe</a>, a postdoctoral research associate at Brown University's <a href="https://watson.brown.edu/taubman/">Taubman Center for American Politics and Policy</a> and an affiliate with <a href="https://thepolicylab.brown.edu/">The Policy Lab</a>. I received my PhD in political science from Vanderbilt University.<br />  
 
 Multi-racial liberal democracies like the United States face important challenges in fostering inclusion and addressing group-based inequalities. My research agenda sheds light on these pressing issues by investigating how individuals’ attitudes about social groups–particularly racialized groups–develop and change, and when, why, and among whom they influence opinions. I am interested not only in understanding the origins and implications of exclusionary attitudes, but also how even tolerant individuals do not always embrace policy positions or movements advancing full inclusion. To better answer these questions I also work on issues related to linking theoretical constructs with empirical measures. Across projects I rely on diverse methods, study different populations, and draw from different theoretical approaches. I have published articles on these topics in venues including the <i>American Journal of Political Science</i>, <i>Journal of Politics</i>, <i>British Journal of Political Science</i>, and <i> Perspectives on Politics</i>. My work has also been covered in outlets including <i>The Atlantic</i>, <i>The Guardian</i>, <i>The New York Times</i>, and <i>NPR</i>.<br />
 
 I was also a co-investigator on the 2021-2022 University of North Carolina System <a href="https://fecdsurveyreport.web.unc.edu/">Free Expression and Constructive Dialogue</a> project.
 
 ## Contact
-The Department of Political Science<br />
-University of North Carolina, Greensboro<br />
-324 Curry Building<br />
-PO Box 26170 <br />
-Greensboro, NC 27402 <br />
-Email: [amengelhard@uncg.edu]
+Department of Political Science<br />
+S-701 Social and Behavioral Sciences Building<br />
+4392 SUNY <br />
+Stony Brook, NY 11794 <br />
+Email: [andrew.engelhardt@stonybrook.edu]
 
-[amengelhard@uncg.edu]: mailto:amengelhard@uncg.edu
+[andrew.engelhardt@stonybrook.edu]: mailto:andrew.engelhardt@stonybrook.edu
