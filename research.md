@@ -13,7 +13,7 @@ pubs:
       doi:     "https://doi.org/10.1017/S0007123423000133"
       abstract: "That Black and White Americans disagree about the carceral state is well established; why this is the case is much less clear. Drawing on group hierarchy theory and the state’s role in perpetuating group subordination/domination, we theorize that differences in socialization and contact during emergent adulthood produce divergent priors for racial groups and gender subgroups within race. These different starting points shape how people integrate new information from recent contact into their belief systems. Using a survey of over 11,000 respondents, we find that instead of all groups integrating information the same way, recent direct contact contributes most to negative attitudes among groups whose contact with government agents is least negatively valanced. While interactions with the American carceral state divide opinions considerably among White Americans and women, adulthood contact for Black Americans, especially Black men, appears but “a drop in the ocean” of political life."
       media:
-          - name: "LSE UAPP Blog"
+          - name: "LSE USAPP Blog"
             url: "https://blogs.lse.ac.uk/usappblog/2024/01/05/existing-expectations-of-the-criminal-justice-system-influence-how-white-and-black-americans-react-to-negative-experiences/"
       
     - title:   "Advancing the Measurement of Authoritarianism"
