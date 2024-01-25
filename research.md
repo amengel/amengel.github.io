@@ -4,6 +4,15 @@ permalink: /research/
 title: Research
 pubs:
     
+    - title:   "From Protest to Child-Rearing: How Movement Politics Shape Socialization Priorities"
+      author:  ""
+      journal: "American Political Science Review"
+      note:    "with Allison P. Anoll and Mackenzie Israel-Trummel"
+      year:    "Conditionally Accepted"
+      url:     ""
+      doi:     ""
+      abstract: "Classic political behavior studies assert that childhood socialization can contribute to later political orientations. But, as adults consider how to introduce children to politics, what shapes their decisions? We argue socialization is itself political with adults changing their socialization priorities in response to salient political events including social movements. Using Black Lives Matter protests and race socialization as a case, we show the summer 2020 information environment coupled movement-consistent concepts of race with child-rearing guidance. A survey of White parents after the summer activism suggests that many---but especially Democrats and those near peaceful protest epicenters---prioritized new forms of race socialization. Further, nearly two years after the protests' height, priming Black Lives Matter changes support for race-related curricular materials among White Americans. Our work casts political socialization in a new light, reviving an old literature, and has implications for when today's children become tomorrow's voters."
+    
     - title:   "A Drop in the Ocean: How Priors Anchor Attitudes Toward the American Carceral State"
       author:  ""
       journal: "British Journal of Political Science 53(4):1150--1169"
