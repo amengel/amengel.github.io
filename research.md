@@ -12,6 +12,9 @@ pubs:
       url:     ""
       doi:     "https://doi.org/10.1017/S0003055424000273"
       abstract: "Classic political behavior studies assert that childhood socialization can contribute to later political orientations. But, as adults consider how to introduce children to politics, what shapes their decisions? We argue socialization is itself political with adults changing their socialization priorities in response to salient political events including social movements. Using Black Lives Matter protests and race socialization as a case, we show the summer 2020 information environment coupled movement-consistent concepts of race with child-rearing guidance. A survey of White parents after the summer activism suggests that many---but especially Democrats and those near peaceful protest epicenters---prioritized new forms of race socialization. Further, nearly two years after the protests' height, priming Black Lives Matter changes support for race-related curricular materials among White Americans. Our work casts political socialization in a new light, reviving an old literature, and has implications for when today's children become tomorrow's voters."
+      media:
+          - name: "LSE USAPP Blog"
+            url: "https://blogs.lse.ac.uk/usappblog/2024/05/17/social-movements-can-shape-politics-by-influencing-how-people-think-about-childrens-education/"
     
     - title:   "A Drop in the Ocean: How Priors Anchor Attitudes Toward the American Carceral State"
       author:  ""
@@ -165,7 +168,7 @@ chapters:
          author: "Krosnick, J. A., Stark, T. H. & Scott, A. L. Eds."
 
 working:
-       - title:   "Limits to Agenda Setting? The Case of Public Concern with Race" 
+       - title:   "Validating Whites’ Reactions to the “Racial Shift” (with Nicole Huffman and Veronica Oelerich) 
        - title:   "Raising the Future: Race and the Politics of Child-Rearing (in progress book manuscript with Allison Anoll and Mackenzie Israel-Trummel)"
 
 
