@@ -168,7 +168,7 @@ chapters:
          author: "Krosnick, J. A., Stark, T. H. & Scott, A. L. Eds."
 
 working:
-       - title:   "Validating Whites’ Reactions to the “Racial Shift” (with Nicole Huffman and Veronica Oelerich) 
+       - title:   "Validating Whites’ Reactions to the 'Racial Shift' (with Nicole Huffman and Veronica Oelerich)"
        - title:   "Raising the Future: Race and the Politics of Child-Rearing (in progress book manuscript with Allison Anoll and Mackenzie Israel-Trummel)"
 
 
