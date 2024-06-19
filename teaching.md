@@ -18,5 +18,5 @@ title: Teaching
 * [Research Methods in Political Science](https://drive.google.com/file/d/1e-4UTSZsTeUj5su8WoewBKA-MgC7tDCs/view?usp=sharing) (UNC, Greensboro)
 
 ## Workshops
-* [Indexes and Factor Analysis](https://amengelhardt.com/files/Indexes%20and%20Scaling%202023-06-22.pptx) ([Latin American Public Opinion Project](https://www.vanderbilt.edu/lapop/summer_research_in_survey_methodology/summerschoolresearchmethodology.php) Summer School in International Survey Methods)
-  * Code: [Ansolabehere et al 2008](https://amengelhardt.com/files/ansolabehere_rodden_and_snyder_2008.R), [Tarman & Sears 2005](https://amengelhardt.com/files/tarman_and_sears_2005.R)
+* [Indexes and Factor Analysis](https://amengelhardt.com/files/Indexes%20and%20Scaling%2024.pptx) ([Latin American Public Opinion Project](https://www.vanderbilt.edu/lapop/summer_research_in_survey_methodology/summerschoolresearchmethodology.php) Summer School in International Survey Methods)
+  * Code: [Ansolabehere et al 2008](https://amengelhardt.com/files/ansolabehere_rodden_and_snyder_2008.R), [Castanho Silva et al 2020](https://amengelhardt.com/files/castanhosilva_2020.R)
