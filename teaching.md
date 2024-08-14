@@ -12,7 +12,7 @@ title: Teaching
 * [Survey Research](https://drive.google.com/open?id=1IieavhvGK4X5ZscPwkjMhSi06xN8HWOz) (Brown University)
 
 ### Undergraduate Level
-* Contemporary Race Relations (Stony Brook University)
+* [Contemporary Race Relations](https://amengelhardt.com/files/syllabi/POL 353.pdf) (Stony Brook University)
 * American Election Campaigns (Stony Brook University)
 * [Identities and Politics](https://drive.google.com/file/d/1Md9prD66yWivGdsMybEkPnw7NoDtK81U/view?usp=sharing) (UNC, Greensboro)
 * [Individual in Politics/Political Psychology](https://drive.google.com/file/d/1WnPAWBtQaV5dkgL13YsoS7gNqujMsUv6/view?usp=sharing) (UNC, Greensboro)
