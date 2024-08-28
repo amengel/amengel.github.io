@@ -6,4 +6,4 @@ permalink: /cv/
 A PDF version can downloaded [here.](../files/amengelhardt_CV.pdf)
 
 
-<object data="../files/amengelhardt_CV.pdf" width="600" height="800" type='application/pdf'></object>
+<object data="../files/amengelhardt_CV.pdf" width="800" height="800" type='application/pdf'></object>
