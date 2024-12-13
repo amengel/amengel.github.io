@@ -7,7 +7,7 @@ pubs:
     - title:   "Validating Whites' Reactions to the 'Racial Shift'"
       author:  ""
       journal: "Journal of Experimental Political Science"
-      note:    "with Allison P. Anoll and Mackenzie Israel-Trummel"
+      note:    "with Nicole Huffman and Veronica Oelerich"
       year:    "Conditionally Accepted"
       url:     ""
       doi:     ""
