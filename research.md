@@ -181,11 +181,12 @@ working:
        - title:   "More than a Partisan Pandemic: Worldviews and COVID-19 Response in the United States (with Marc J. Hetherington and Isaac D. Mehlhaff)"
        - title:   "Testing the Stability and Causal Order of *Identity* and *Solidarity* between PoC: Evidence from a New Panel of Asian, Black, Latino, and Multiracial Adults (with Efrén O. Pérez, Seth Goldman, Yuen Huo, Tatishe Nteta, and Linda R. Tropp)"
        - title:   "Raising the Future: Race and the Politics of Child-Rearing (in progress book manuscript with Allison Anoll and Mackenzie Israel-Trummel)"
+       - title:   "What is Conservative? (in progress book manuscript with Marc J. Hetherington and Jonathan Weiler)"
 
 
 ---
 
-Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers](#working-papers)
+Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers and Ongoing Projects](#working-papers)
 
 ---
 
@@ -217,7 +218,7 @@ Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers]
 
 -----
 
-## Working Papers
+## Working Papers and Ongoing Projects
 {% assign thumbnail="left" %}
 {% for pub in page.working %}
 {% if pub.url %}[{{pub.title}}]({{pub.url}}){% else %}{{pub.title}}{% endif %}
