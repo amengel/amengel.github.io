@@ -178,8 +178,12 @@ chapters:
 
 working:
        - title:   "A Racial Reckoning? Racial Attitudes in the Wake of the Murder of George Floyd (with Cindy D. Kam)"
+       - title:   "Political Consumerism in a Racially Polarized Context (with Cindy D. Kam)"
        - title:   "More than a Partisan Pandemic: Worldviews and COVID-19 Response in the United States (with Marc J. Hetherington and Isaac D. Mehlhaff)"
        - title:   "Testing the Stability and Causal Order of *Identity* and *Solidarity* between PoC: Evidence from a New Panel of Asian, Black, Latino, and Multiracial Adults (with Efrén O. Pérez, Seth Goldman, Yuen Huo, Tatishe Nteta, and Linda R. Tropp)"
+       - title:   "A Crucible for Allyship? New Evidence on the Dynamics Between Democratic Partisanship and
+Solidarity Between People of Color (with Efrén O. Pérez, Seth Goldman, Yuen Huo, Tatishe Nteta, and Linda R. Tropp)"
+       - title:   "Acquiescence Bias and Predictive Validity: Problems and Potential Solutions for Agree-Disagree Scales (with Scott Clifford)"
        - title:   "Raising the Future: Race and the Politics of Child-Rearing (in progress book manuscript with Allison Anoll and Mackenzie Israel-Trummel)"
        - title:   "What is Conservative? (in progress book manuscript with Marc J. Hetherington and Jonathan Weiler)"
 
