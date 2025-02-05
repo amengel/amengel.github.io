@@ -210,7 +210,7 @@ Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers 
 {{pub.year}}  [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %}) {{pub.author}} *{{pub.journal}}* 
 {% if pub.note %} ({{pub.note}}){% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]<br />{% endif %}
 {% if pub.media %} Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}<br />{% endif %}
-{% if pub.abstract %}**Abstract**:  <span style="font-size:.8em;">{{pub.abstract}}</span> {% endif %}
+{% if pub.abstract %} <details> <summary> **Abstract**</summary>  <span style="font-size:.8em;">{{pub.abstract}}</span> </details>{% endif %}
 
 {% endfor %}
 
