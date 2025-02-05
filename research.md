@@ -212,7 +212,7 @@ Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers 
 {% if pub.media %} <br /> Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %} {% endif %}
 {% if pub.abstract %} <details> 
 <summary>
-#### **Abstract**
+#### `Abstract`
 </summary>
 <span style="font-size:.8em;">{{pub.abstract}}</span> </details> <br /> {% endif %}
 
