@@ -211,10 +211,9 @@ Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers 
 {% if pub.note %} ({{pub.note}}){% endif %} {% if pub.doi %}[[doi]({{pub.doi}})] {% endif %}
 {% if pub.media %} <br /> Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %} {% endif %}
 {% if pub.abstract %} <details> 
-<summary>
-#### `Abstract`
-</summary>
-<span style="font-size:.8em;">{{pub.abstract}}</span> </details> <br /> {% endif %}
+<summary> Abstract </summary>
+<span style="font-size:.8em;">{{pub.abstract}}</span> 
+</details> <br /> {% endif %}
 
 {% endfor %}
 
