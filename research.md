@@ -195,10 +195,19 @@ Solidarity Between People of Color (with Efrén O. Pérez, Seth Goldman, Yuen Hu
        - title:   "Raising the Future: Race and the Politics of Child-Rearing (in progress book manuscript with Allison Anoll and Mackenzie Israel-Trummel)"
        - title:   "What is Conservative? (in progress book manuscript with Marc J. Hetherington and Jonathan Weiler)"
 
-
 ---
 
 Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers and Ongoing Projects](#working-papers-and-ongoing-projects)
+
+<style type="text/css">
+  details {
+  font-size: 1rem;
+  font-family: "Open Sans", Calibri, sans-serif;
+  border: solid;
+  padding: 2px 6px;
+  margin-bottom: 1em;
+  }
+</style>
 
 ---
 
@@ -211,7 +220,7 @@ Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers 
 {% if pub.note %} ({{pub.note}}){% endif %} {% if pub.doi %}[[doi]({{pub.doi}})] {% endif %}
 {% if pub.media %} <br /> Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %} {% endif %}
 {% if pub.abstract %} <details> 
-<summary> Abstract </summary>
+<summary> <strong>Abstract</strong> </summary>
 <span style="font-size:.8em;">{{pub.abstract}}</span> 
 </details> <br /> {% endif %}
 
