@@ -15,7 +15,7 @@ pubs:
       author:  ""
       journal: "Journal of Experimental Political Science"
       note:    "with Nicole Huffman and Veronica Oelerich"
-      year:    "Conditionally Accepted"
+      year:    "Forthcoming"
       abstract: "A prominent paradigm demonstrates many White Americans respond negatively to information on their declining population share. But this paradigm considers this 'racial shift' in a single hierarchy-challenging context that produces similar status threat responses across conceptually distinct outcomes, undercutting the ability to both explain the causes of Whites’ social and political responses and advance theorizing about native majorities’ responses to demographic change. We test whether evidence for Whites’ responses to demographic change varies across three distinct hierarchy-challenging contexts: society at large, culture, and politics. We find little evidence any racial shift information instills status threat or otherwise changes attitudes or behavioral intentions, and do not replicate evidence for reactions diverging by left- vs. right-wing political attachments. We conclude with what our well-powered (n=2100) results suggest about a paradigm and intervention used prominently, with results cited frequently, to understand native majorities’ responses to demographic change and potential challenges to multi-racial democracy."
     
     - title:   "From Protest to Child-Rearing: How Movement Politics Shape Socialization Priorities"
@@ -196,13 +196,13 @@ Solidarity Between People of Color (with Efrén O. Pérez, Seth Goldman, Yuen Hu
 Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers and Ongoing Projects](#working-papers-and-ongoing-projects)
 
 <style type="text/css">
-  details {
-      font-size: 1.2rem;
+    details {
+      font-size: 1rem;
       border: solid;
       padding: 2px 6px;
   }
     summary {
-        font-size: .8rem;
+        font-size: 1.2rem;
     }
 </style>
 
@@ -218,7 +218,7 @@ Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers 
 {% if pub.media %} <br /> Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %} {% endif %}
 {% if pub.abstract %} <details> 
 <summary> <strong>Abstract</strong> </summary>
-{{pub.abstract}}
+<span style="font-size:1em;">{{pub.abstract}}</span>
 </details> <br /> {% endif %}
 
 {% endfor %}
