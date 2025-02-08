@@ -202,7 +202,7 @@ Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers 
       padding: 2px 6px;
   }
     summary {
-        font-size: 1rem;
+        font-size: .8rem;
     }
 </style>
 
