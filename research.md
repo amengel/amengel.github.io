@@ -197,12 +197,12 @@ Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers 
 
 <style type="text/css">
   details {
-      font-size: 1rem;
+      font-size: 1.2rem;
       border: solid;
       padding: 2px 6px;
   }
     summary {
-        text-justify: auto;
+        font-size: 1rem;
     }
 </style>
 
@@ -218,7 +218,7 @@ Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers 
 {% if pub.media %} <br /> Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %} {% endif %}
 {% if pub.abstract %} <details> 
 <summary> <strong>Abstract</strong> </summary>
-<span style="font-size:.8em;">{{pub.abstract}}</span> 
+{{pub.abstract}}
 </details> <br /> {% endif %}
 
 {% endfor %}
