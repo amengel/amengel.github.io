@@ -197,11 +197,13 @@ Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers 
 
 <style type="text/css">
   details {
-      font-weight: bold;
       font-size: 1rem;
       border: solid;
       padding: 2px 6px;
   }
+    summary {
+        text-justify: auto;
+    }
 </style>
 
 ---
