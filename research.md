@@ -109,9 +109,6 @@ pubs:
           url: "https://fivethirtyeight.com/features/white-democrats-are-wary-of-big-ideas-to-address-racial-inequality/"
         - name: "Science of Politics Podcast"
           url: "https://www.niskanencenter.org/how-our-politics-changes-our-racial-views-and-identities/"
-          
-
-
 
     - title:   "Grand Old (Tailgate) Party? Partisan discrimination in apolitical settings"
       author:  ""
@@ -202,7 +199,7 @@ Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers 
       padding: 2px 6px;
   }
     summary {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
 </style>
 
