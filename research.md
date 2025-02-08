@@ -202,10 +202,8 @@ Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers 
 <style type="text/css">
   details {
   font-size: 1rem;
-  font-family: "Open Sans", Calibri, sans-serif;
   border: solid;
   padding: 2px 6px;
-  margin-bottom: 1em;
   }
 </style>
 
