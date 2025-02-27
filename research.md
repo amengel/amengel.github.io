@@ -196,7 +196,7 @@ Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers 
     details {
       font-size: 1rem;
       border: solid;
-      border-color: gray;
+      border-color: LightGray;
       padding: 2px 6px;
   }
     summary {
