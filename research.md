@@ -23,6 +23,8 @@ pubs:
       journal: "Journal of Experimental Political Science"
       note:    "with Nicole Huffman and Veronica Oelerich"
       year:    "Forthcoming"
+      url:     "https://doi.org/10.1017/XPS.2025.2"
+      doi:     "https://doi.org/10.1017/XPS.2025.2"
       abstract: "A prominent paradigm demonstrates many White Americans respond negatively to information on their declining population share. But this paradigm considers this 'racial shift' in a single hierarchy-challenging context that produces similar status threat responses across conceptually distinct outcomes, undercutting the ability to both explain the causes of Whites’ social and political responses and advance theorizing about native majorities’ responses to demographic change. We test whether evidence for Whites’ responses to demographic change varies across three distinct hierarchy-challenging contexts: society at large, culture, and politics. We find little evidence any racial shift information instills status threat or otherwise changes attitudes or behavioral intentions, and do not replicate evidence for reactions diverging by left- vs. right-wing political attachments. We conclude with what our well-powered (n=2100) results suggest about a paradigm and intervention used prominently, with results cited frequently, to understand native majorities’ responses to demographic change and potential challenges to multi-racial democracy."
     
     - title:   "From Protest to Child-Rearing: How Movement Politics Shape Socialization Priorities"
@@ -30,7 +32,7 @@ pubs:
       journal: "American Political Science Review"
       note:    "with Allison P. Anoll and Mackenzie Israel-Trummel"
       year:    "2025"
-      url:     ""
+      url:     "https://doi.org/10.1017/S0003055424000273"
       doi:     "https://doi.org/10.1017/S0003055424000273"
       abstract: "Classic political behavior studies assert that childhood socialization can contribute to later political orientations. But, as adults consider how to introduce children to politics, what shapes their decisions? We argue socialization is itself political with adults changing their socialization priorities in response to salient political events including social movements. Using Black Lives Matter protests and race socialization as a case, we show the summer 2020 information environment coupled movement-consistent concepts of race with child-rearing guidance. A survey of White parents after the summer activism suggests that many---but especially Democrats and those near peaceful protest epicenters---prioritized new forms of race socialization. Further, nearly two years after the protests' height, priming Black Lives Matter changes support for race-related curricular materials among White Americans. Our work casts political socialization in a new light, reviving an old literature, and has implications for when today's children become tomorrow's voters."
       media:
@@ -42,7 +44,7 @@ pubs:
       journal: "British Journal of Political Science 53(4):1150--1169"
       note:    "with Allison P. Anoll"
       year:    "2023"
-      url:     ""
+      url:     "https://doi.org/10.1017/S0007123423000133"
       doi:     "https://doi.org/10.1017/S0007123423000133"
       abstract: "That Black and White Americans disagree about the carceral state is well established; why this is the case is much less clear. Drawing on group hierarchy theory and the state’s role in perpetuating group subordination/domination, we theorize that differences in socialization and contact during emergent adulthood produce divergent priors for racial groups and gender subgroups within race. These different starting points shape how people integrate new information from recent contact into their belief systems. Using a survey of over 11,000 respondents, we find that instead of all groups integrating information the same way, recent direct contact contributes most to negative attitudes among groups whose contact with government agents is least negatively valanced. While interactions with the American carceral state divide opinions considerably among White Americans and women, adulthood contact for Black Americans, especially Black men, appears but “a drop in the ocean” of political life."
       media:
