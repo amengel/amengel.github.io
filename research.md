@@ -4,7 +4,14 @@ permalink: /research/
 title: Research
 pubs:
 
-    - title:   "More than a Partisan Pandemic: Worldviews and COVID-19 Response in the United States'"
+    - title:   "Testing the Stability and Temporal Order of PoC Identity and PoC Solidarity: New Evidence from a Survey Panel of Asian, Black, Latino, and Multiracial Adults"
+      author:  ""
+      journal: "American Journal of Political Science"
+      note:    "with with Efrén O. Pérez, Seth Goldman, Yuen Huo, Tatishe Nteta, and Linda R. Tropp"
+      year:    "Forthcoming"
+      abstract: "Two crucial variables in the study of people of color (PoC) are identity and solidarity. Present work construes identity as more stable than solidarity, with identity producing shifts in solidarity between PoC. However, this view rests on cross-sectional evidence, which limits researchers’ ability to formally appraise the stability and sequence of these key variables. We report here the first longitudinal evidence on these matters by leveraging the 2023 American Multiracial Panel Study (AMPS)—a unique two-wave survey of Asian, Black, Latino, and Multiracial adults. We report three major results. First, contrary to its current conceptualization, PoC solidarity is as stable as PoC identity, suggesting two alternate but durable sources of political unity among these groups. Second, consistent with their present conceptualization, PoC identity is associated with shifts in solidarity, but not vice versa. Third, we yield new evidence that the dynamics between these variables holds uniformly across different PoC subgroups, highlighting this mega-group’s coherence and political relevance. We conclude by discussing our results’ implications for U.S. inter-minority politics."
+
+    - title:   "More than a Partisan Pandemic: Worldviews and COVID-19 Response in the United States"
       author:  ""
       journal: "Advances in Political Psychology"
       note:    "with Marc J. Hetherington and Isaac D. Mehlhaff"
@@ -181,7 +188,6 @@ chapters:
 working:
        - title:   "A Racial Reckoning? Racial Attitudes in the Wake of the Murder of George Floyd (with Cindy D. Kam)"
        - title:   "Political Consumerism in a Racially Polarized Context (with Cindy D. Kam)"
-       - title:   "Testing the Stability and Temporal Order of PoC *Identity* and PoC *Solidarity*: New Evidence from a Survey Panel of Asian, Black, Latino, and Multiracial Adults (with Efrén O. Pérez, Seth Goldman, Yuen Huo, Tatishe Nteta, and Linda R. Tropp)"
        - title:   "A Crucible for Allyship? New Evidence on the Dynamics Between Democratic Partisanship and
 Solidarity Between People of Color (with Efrén O. Pérez, Seth Goldman, Yuen Huo, Tatishe Nteta, and Linda R. Tropp)"
        - title:   "Acquiescence Bias and Predictive Validity: Problems and Potential Solutions for Agree-Disagree Scales (with Scott Clifford)"
