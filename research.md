@@ -22,7 +22,7 @@ pubs:
       author:  ""
       journal: "Journal of Experimental Political Science"
       note:    "with Nicole Huffman and Veronica Oelerich"
-      year:    "Forthcoming"
+      year:    "2025"
       url:     "https://doi.org/10.1017/XPS.2025.2"
       doi:     "https://doi.org/10.1017/XPS.2025.2"
       abstract: "A prominent paradigm demonstrates many White Americans respond negatively to information on their declining population share. But this paradigm considers this 'racial shift' in a single hierarchy-challenging context that produces similar status threat responses across conceptually distinct outcomes, undercutting the ability to both explain the causes of Whites’ social and political responses and advance theorizing about native majorities’ responses to demographic change. We test whether evidence for Whites’ responses to demographic change varies across three distinct hierarchy-challenging contexts: society at large, culture, and politics. We find little evidence any racial shift information instills status threat or otherwise changes attitudes or behavioral intentions, and do not replicate evidence for reactions diverging by left- vs. right-wing political attachments. We conclude with what our well-powered (n=2100) results suggest about a paradigm and intervention used prominently, with results cited frequently, to understand native majorities’ responses to demographic change and potential challenges to multi-racial democracy."
