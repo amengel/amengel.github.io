@@ -4,10 +4,17 @@ permalink: /research/
 title: Research
 pubs:
 
+    - title:   "A Racial Reckoning? Racial Attitudes in the Wake of the Murder of George Floyd"
+      author:  ""
+      journal: "Political Science Research and Methods"
+      note:    "with Cindy D. Kam"
+      year:    "Forthcoming"
+      abstract: "Did George Floyd’s murder and its ensuing protests in the summer of 2020 produce a racial reckoning?  Conventional social-science accounts, emphasizing the stability of racial attitudes, suggest such a reckoning is unlikely.  In contrast, we theorize how these events may have altered Americans’ racial attitudes, in broadly progressive or in potentially countervailing ways across subgroups. We engage four separate data sources that enable us to trace the information environment and then to examine these events’ effects across several attitude measures. Our original content analysis of partisan media grounds our expectations for how the information environment surrounding the murder may have framed Black Americans before and after the summer of 2020. Then, because racial attitudes can take many forms, we analyze data from Gallup, the Democracy Fund+UCLA’s Nationscape surveys, and Harvard’s Project Implicit website to examine temporal trends across racial and partisan subgroups using three different attitude measures: most important problem judgments, explicit favorability towards Whites versus Blacks, and implicit racial attitudes. Challenging the conventional wisdom, our analyses demonstrate that racial attitudes changed following George Floyd’s murder, but in ways that depend upon attitude measure and population subgroup."
+
     - title:   "Testing the Stability and Temporal Order of PoC Identity and PoC Solidarity: New Evidence from a Survey Panel of Asian, Black, Latino, and Multiracial Adults"
       author:  ""
       journal: "American Journal of Political Science"
-      note:    "with with Efrén O. Pérez, Seth Goldman, Yuen Huo, Tatishe Nteta, and Linda R. Tropp"
+      note:    "with Efrén O. Pérez, Seth Goldman, Yuen Huo, Tatishe Nteta, and Linda R. Tropp"
       year:    "Forthcoming"
       abstract: "Two crucial variables in the study of people of color (PoC) are identity and solidarity. Present work construes identity as more stable than solidarity, with identity producing shifts in solidarity between PoC. However, this view rests on cross-sectional evidence, which limits researchers’ ability to formally appraise the stability and sequence of these key variables. We report here the first longitudinal evidence on these matters by leveraging the 2023 American Multiracial Panel Study (AMPS)—a unique two-wave survey of Asian, Black, Latino, and Multiracial adults. We report three major results. First, contrary to its current conceptualization, PoC solidarity is as stable as PoC identity, suggesting two alternate but durable sources of political unity among these groups. Second, consistent with their present conceptualization, PoC identity is associated with shifts in solidarity, but not vice versa. Third, we yield new evidence that the dynamics between these variables holds uniformly across different PoC subgroups, highlighting this mega-group’s coherence and political relevance. We conclude by discussing our results’ implications for U.S. inter-minority politics."
 
@@ -188,7 +195,6 @@ chapters:
          author: "Krosnick, J. A., Stark, T. H. & Scott, A. L. Eds."
 
 working:
-       - title:   "A Racial Reckoning? Racial Attitudes in the Wake of the Murder of George Floyd (with Cindy D. Kam)"
        - title:   "Political Consumerism in a Racially Polarized Context (with Cindy D. Kam)"
        - title:   "A Crucible for Allyship? New Evidence on the Dynamics Between Democratic Partisanship and
 Solidarity Between People of Color (with Efrén O. Pérez, Seth Goldman, Yuen Huo, Tatishe Nteta, and Linda R. Tropp)"
