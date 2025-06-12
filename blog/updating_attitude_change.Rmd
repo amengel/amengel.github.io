@@ -55,13 +55,18 @@ source("~/Dropbox/Data/ANES/2024/anes24_riclpm_ft.R")
 ```
 
 
-## The Problem
+## The Pattern and Problem
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Evidence: BJPS, VOTER publications, Jardina and Ollerenshaw[^1]
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+[^1]: These include assessments of snapshots of the U.S. public [since the 1980s](https://academic.oup.com/poq/article/86/S1/576/6617224) or work tracking the same respondents [between 2011 and 2024](https://democracyfund.org/idea/pushed-and-pulled/)
+
+This has consequences. 
 
 **Takeaways**
+
+* White racial attitude polarization since 2016 isn't merely party switching, it's attitude change.
+* Scholars should be careful 1) testing hypothesis using cross-sectional data and 2) interpreting associations between racial attitudes or partisanship and outcomes of interest.
 
 ```{r cars}
 summary(cars)
@@ -69,8 +74,9 @@ summary(cars)
 
 ## Racial Attitude Trends: 2016-2024
 
-You can also embed plots, for example:
-
 ```{r means}
 p_means_rr + p_means_wb
 ```
+
+## Updating Bidirectionality Test with New Data and Method
+
