@@ -37,9 +37,9 @@ knitr::opts_chunk$set(
   warning = FALSE,              # don't show warnings
   message = FALSE,              # don't show messages (less serious warnings)
   cache = TRUE,                # set to TRUE to save results from last compilation, otherwise re-runs all code even if it hasn't changed
-  fig.align = "center",         # center figures
+  fig.align = "center"         # center figures
   #attr.source = '.numberLines',  # add line numbers to code
-  dev = "cairo_pdf" # changing graphical device for font
+  # dev = "cairo_pdf" # changing graphical device for font
 )
 ```
 
@@ -65,7 +65,7 @@ p_rr <- ggplot(subset(rr_means, group == "D.16 D.20 D.24" | group == "R.16 R.20 
   # labs(x = "", y = "", title = "White Racial Resentment by Party Flow",
   #      caption = "Analyses weighted.") +
   scale_color_manual(name = "", values = c("#00AEF3", "#E81B23")) +
-  annotate("text", x = 1.25, y = .29, color = "#00AEF3", label = "Democrats") +
+  annotate("text", x = 1.25, y = .27, color = "#00AEF3", label = "Democrats") +
   annotate("text", x = 1.25, y = .75, color = "#E81B23", label = "Republicans") +
   # scale_shape_manual(name = "", values = c(1, 16)) +
   scale_size(guide = F) +
@@ -122,9 +122,13 @@ While preliminary until the ANES finalizes the 2024 release, I find a continued 
 
 ## Racial Attitude Trends: 2016-2024
 
-```{r means, out.width = "70%", fig.cap="Trends in Racial Attitudes among Consistent Partisans."}
-p_rr + p_wb
+```{r means, out.height="100%", out.width = "100%", fig.height=5, fig.width= 12, fig.cap="Trends in Racial Attitudes among Consistent Partisans."}
+(p_rr + p_wb) + plot_annotation(tag_levels = 'A')
 ```
 
 ## Updating Bidirectionality Test with New Data and Method
 
+
+```{r riclpm, out.height="100%", out.width = "100%", fig.height=8, fig.width= 12, fig.cap="Individual-level change in Partisanship and Racial Attitudes. Results from random intercepts cross-lagged panel model."}
+(plot_rr / plot_wb ) + plot_annotation(tag_levels = 'A') 
+```
