@@ -1,11 +1,46 @@
 ---
 title: "Updating White Racial Attitude Change"
 output: html_document
-date: "2025-06-12"
+date: "`r Sys.Date()`"
+urlcolor: blue
+header-includes: 
+## add latex packages here if wanted 
+  - \usepackage{hayesmacros} # Macros file from origin
+  - \usepackage[default]{sourcesanspro}
+  - \usepackage[T1]{fontenc}
+  - \usepackage{siunitx} # needed to render something
+  - \usepackage{placeins}
+  - \usepackage{booktabs}
+  - \usepackage{longtable}
+  - \usepackage{array}
+  - \usepackage{multirow}
+  - \usepackage{wrapfig}
+  - \usepackage{float}
+  - \usepackage{colortbl}
+  - \usepackage{pdflscape}
+  - \usepackage{tabu}
+  - \usepackage{threeparttable}
+  - \usepackage{threeparttablex}
+  - \usepackage[normalem]{ulem}
+  - \usepackage{makecell}
+  - \usepackage{xcolor}
+mainfont: SourceSansPro
+linestretch: 1 # line spacing for document
+
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r options, include = FALSE}
+knitr::opts_chunk$set(
+  tidy = TRUE, # clean up code
+  tidy.opts=list(width.cutoff=50), ## wrap text width for tidying
+  echo = FALSE,          # show code
+  warning = FALSE,              # don't show warnings
+  message = FALSE,              # don't show messages (less serious warnings)
+  cache = FALSE,                # set to TRUE to save results from last compilation, otherwise re-runs all code even if it hasn't changed
+  fig.align = "center",         # center figures
+  #attr.source = '.numberLines',  # add line numbers to code
+  dev = "cairo_pdf" # changing graphical device for font
+)
 ```
 
 ## R Markdown
