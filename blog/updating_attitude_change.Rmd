@@ -36,29 +36,41 @@ knitr::opts_chunk$set(
   echo = FALSE,          # show code
   warning = FALSE,              # don't show warnings
   message = FALSE,              # don't show messages (less serious warnings)
-  cache = FALSE,                # set to TRUE to save results from last compilation, otherwise re-runs all code even if it hasn't changed
+  cache = TRUE,                # set to TRUE to save results from last compilation, otherwise re-runs all code even if it hasn't changed
   fig.align = "center",         # center figures
   #attr.source = '.numberLines',  # add line numbers to code
   dev = "cairo_pdf" # changing graphical device for font
 )
 ```
 
-## R Markdown
+```{r packages}
+library(ggplot2)
+library(marginaleffects)
+library(patchwork)
+```
+
+```{r models}
+source("~/Dropbox/Data/ANES/2024/anes24_riclpm_rr.R")
+source("~/Dropbox/Data/ANES/2024/anes24_riclpm_ft.R")
+```
+
+
+## The Problem
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
+**Takeaways**
+
 ```{r cars}
 summary(cars)
 ```
 
-## Including Plots
+## Racial Attitude Trends: 2016-2024
 
 You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+```{r means}
+p_means_rr + p_means_wb
 ```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
