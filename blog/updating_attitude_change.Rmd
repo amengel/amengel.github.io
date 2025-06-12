@@ -32,7 +32,7 @@ linestretch: 1 # line spacing for document
 ```{r options, include = FALSE}
 knitr::opts_chunk$set(
   tidy = TRUE, # clean up code
-  tidy.opts=list(width.cutoff=50), ## wrap text width for tidying
+  #tidy.opts=list(width.cutoff=50), ## wrap text width for tidying
   echo = FALSE,          # show code
   warning = FALSE,              # don't show warnings
   message = FALSE,              # don't show messages (less serious warnings)
@@ -54,27 +54,24 @@ source("~/Dropbox/Data/ANES/2024/anes24_riclpm_rr.R")
 source("~/Dropbox/Data/ANES/2024/anes24_riclpm_ft.R")
 ```
 
+**In Brief**
 
-## The Pattern and Problem
+* White racial attitude polarization since 2016 remains a mix of party switching and attitude change.
+* Scholars should be careful 1) testing hypotheses using cross-sectional data and 2) interpreting associations between racial attitudes or partisanship and outcomes of interest.
 
-Evidence: BJPS, VOTER publications, Jardina and Ollerenshaw[^1]
 
-[^1]: These include assessments of snapshots of the U.S. public [since the 1980s](https://academic.oup.com/poq/article/86/S1/576/6617224) or work tracking the same respondents [between 2011 and 2024](https://democracyfund.org/idea/pushed-and-pulled/)
+It is commonplace to identify an increasingly tight connection between the views white Americans hold about Black people and their partisanship. These trends appear in snapshots of the U.S. public [since the 1980s](https://academic.oup.com/poq/article/86/S1/576/6617224) or work tracking the same respondents [between 2011 and 2024](https://democracyfund.org/idea/pushed-and-pulled/). While the conventional view is this comes from people switching parties, I've found [evidence](https://www.amengelhardt.com/files/engelhardt_PID_racial_attitudes_bjps.pdf) that since 2008, this conventional view is complemented by one where whites are actually changing their attitudes. These shifts [appear sincere](https://www.amengelhardt.com/files/engelhardt_attitude_change_ajps.pdf), and have paid off in white Democrats increasingly favoring [Black politicians](https://osf.io/preprints/osf/bjhz2) in part out of a desire to [address racial inequality](https://www.cambridge.org/core/journals/american-political-science-review/article/white-democrats-growing-support-for-black-politicians-in-the-era-of-the-great-awokening/CD6861093C88839E6955F4BCC5BEA339).
 
-This has consequences. 
+But the argument I advanced hinged on background social and political context, with the evidence accumulated ending in 2016. And much has changed since then. So, with the release of the 2024 [American National Election Study](https://electionstudies.org/data-center/2024-time-series-study/), I found it useful to update my analysis with these new data. I also apply a statistical method more appropriate for identifying attitudinal shifts [within individuals](http://doi.apa.org/getdoi.cfm?doi=10.1037/a0038889).
 
-**Takeaways**
+While preliminary until the ANES finalizes the 2024 release, I find a continued bidirectional relationship between whites' views of Black Americans and their partisanship. This is clearest on a racial attitude measure that divides respondents according to how much they attribute Black Americans' social and economic status to individual effort or systemic discrimination.[^1] This has consequences.
 
-* White racial attitude polarization since 2016 isn't merely party switching, it's attitude change.
-* Scholars should be careful 1) testing hypothesis using cross-sectional data and 2) interpreting associations between racial attitudes or partisanship and outcomes of interest.
+[^1]: This measure, known as [racial resentment](https://press.uchicago.edu/ucp/books/book/chicago/D/bo3620441.html), has a [contentious history](https://press.uchicago.edu/ucp/books/book/chicago/R/bo3617330.html). But I take seriously its development to capture the ["political role of whites' racial attitudes."](https://psycnet.apa.org/record/1988-97566-004)
 
-```{r cars}
-summary(cars)
-```
 
 ## Racial Attitude Trends: 2016-2024
 
-```{r means}
+```{r means, fig.height = 6, fig.width = 8, fig.cap="Trends in Racial Attitudes among Consistent Partisans."}
 p_means_rr + p_means_wb
 ```
 
