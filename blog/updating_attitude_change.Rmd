@@ -54,6 +54,56 @@ source("~/Dropbox/Data/ANES/2024/anes24_riclpm_rr.R")
 source("~/Dropbox/Data/ANES/2024/anes24_riclpm_ft.R")
 ```
 
+```{r mean_plots}
+p_rr <- ggplot(subset(rr_means, group == "D.16 D.20 D.24" | group == "R.16 R.20 R.24"), 
+       aes(x = year, y = value, group = group, color = group)) +
+  geom_point(size = 2) +
+  geom_line() +
+  theme_bw() +
+  # facet_wrap(~group, nrow = 9) +
+  labs(x = "", y = "", title = "Explanations for Black Americans' Status") +
+  # labs(x = "", y = "", title = "White Racial Resentment by Party Flow",
+  #      caption = "Analyses weighted.") +
+  scale_color_manual(name = "", values = c("#00AEF3", "#E81B23")) +
+  annotate("text", x = 1.25, y = .29, color = "#00AEF3", label = "Democrats") +
+  annotate("text", x = 1.25, y = .75, color = "#E81B23", label = "Republicans") +
+  # scale_shape_manual(name = "", values = c(1, 16)) +
+  scale_size(guide = F) +
+  scale_y_continuous(breaks = c(0, 1), limits = c(0, 1),
+                     labels = c("Structural\nBarriers", "Individual\nEffort")) +
+  # scale_y_continuous(limits = c(0, 1)) +
+  theme(axis.text = element_text(size = 12),
+        axis.title = element_text(size = 12),
+        plot.title = element_text(size = 14),
+        strip.text = element_text(size = 10),
+        legend.position = "none",
+        strip.background = element_blank(),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank())
+
+p_wb <- ggplot(subset(wb_means, group == "D.16 D.20 D.24" | group == "R.16 R.20 R.24"), 
+       aes(x = year, y = value, group = group, color = group)) +
+  geom_point(size = 2) +
+  geom_line() +
+  theme_bw() +
+  # facet_wrap(~group, nrow = 9) +
+  labs(x = "", y = "", title = "Relative Favorability of Black Americans") +
+  scale_color_manual(name = "", values = c("#00AEF3", "#E81B23")) +
+  # scale_shape_manual(name = "", values = c(1, 16)) +
+  scale_size(guide = F) +
+  scale_y_continuous(breaks = c(0, .5, 1), limits = c(0, 1),
+                     labels = c("Pro\nBlack", "Neutral", "Pro\nWhite")) +
+  # scale_y_continuous(limits = c(0, 1)) +
+  theme(axis.text = element_text(size = 12),
+        axis.title = element_text(size = 12),
+        plot.title = element_text(size = 14),
+        strip.text = element_text(size = 10),
+        legend.position = "none",
+        strip.background = element_blank(),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank())
+```
+
 **In Brief**
 
 * White racial attitude polarization since 2016 remains a mix of party switching and attitude change.
@@ -64,15 +114,16 @@ It is commonplace to identify an increasingly tight connection between the views
 
 But the argument I advanced hinged on background social and political context, with the evidence accumulated ending in 2016. And much has changed since then. So, with the release of the 2024 [American National Election Study](https://electionstudies.org/data-center/2024-time-series-study/), I found it useful to update my analysis with these new data. I also apply a statistical method more appropriate for identifying attitudinal shifts [within individuals](http://doi.apa.org/getdoi.cfm?doi=10.1037/a0038889).
 
-While preliminary until the ANES finalizes the 2024 release, I find a continued bidirectional relationship between whites' views of Black Americans and their partisanship. This is clearest on a racial attitude measure that divides respondents according to how much they attribute Black Americans' social and economic status to individual effort or systemic discrimination.[^1] This has consequences.
+While preliminary until the ANES finalizes the 2024 release, I find a continued bidirectional relationship between whites' views of Black Americans and their partisanship. This is clearest on a racial attitude measure that divides respondents according to how much they attribute Black Americans' social and economic status to individual effort or systemic discrimination.[^1] This has consequences.[^2]
 
-[^1]: This measure, known as [racial resentment](https://press.uchicago.edu/ucp/books/book/chicago/D/bo3620441.html), has a [contentious history](https://press.uchicago.edu/ucp/books/book/chicago/R/bo3617330.html). But I take seriously its development to capture the ["political role of whites' racial attitudes."](https://psycnet.apa.org/record/1988-97566-004)
+[^1]: This measure, known as [racial resentment](https://press.uchicago.edu/ucp/books/book/chicago/D/bo3620441.html), has a [contentious history](https://press.uchicago.edu/ucp/books/book/chicago/R/bo3617330.html). But I use it to take seriously its intention to capture the ["political role of whites' racial attitudes"](https://psycnet.apa.org/record/1988-97566-004), a view which can account for its clearer connections with partisanship than other manifestations fo racial attitude.
+[^2]: Dan Hopkins's [*Stable Condition*](https://www.russellsage.org/publications/stable-condition) offers a nice explanation for this inferential challenge.
 
 
 ## Racial Attitude Trends: 2016-2024
 
-```{r means, fig.height = 6, fig.width = 8, fig.cap="Trends in Racial Attitudes among Consistent Partisans."}
-p_means_rr + p_means_wb
+```{r means, out.width = "70%", fig.cap="Trends in Racial Attitudes among Consistent Partisans."}
+p_rr + p_wb
 ```
 
 ## Updating Bidirectionality Test with New Data and Method
