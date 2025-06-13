@@ -86,7 +86,7 @@ p_wb <- ggplot(subset(wb_means, group == "D.16 D.20 D.24" | group == "R.16 R.20 
   geom_line() +
   theme_bw() +
   # facet_wrap(~group, nrow = 9) +
-  labs(x = "", y = "", title = "Relative Favorability of Black Americans", subtitle = "Difference betwee white and Black feeling thermometers") +
+  labs(x = "", y = "", title = "Relative Favorability of White Americans", subtitle = "Difference betwee white and Black feeling thermometers") +
   scale_color_manual(name = "", values = c("#00AEF3", "#E81B23")) +
   # scale_shape_manual(name = "", values = c(1, 16)) +
   scale_size(guide = F) +
