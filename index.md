@@ -12,6 +12,8 @@ Multi-racial liberal democracies like the United States face important challenge
 
 I was also a co-investigator on the 2021-2022 University of North Carolina System <a href="https://fecdsurveyreport.web.unc.edu/">Free Expression and Constructive Dialogue</a> project.
 
+At times I post [informal writeups](https://www.amengelhardt.com/writing/) on topics related to my research.
+
 ## Contact
 Department of Political Science<br />
 S-701 Social and Behavioral Sciences Building<br />
