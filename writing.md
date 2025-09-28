@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Informal Writing
+permalink: /writing/
 ---
 
 Occasional pieces thinking about topics of interest.
