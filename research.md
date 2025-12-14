@@ -189,7 +189,7 @@ pubs:
 chapters:
        - title: "Worldview and Partisanship."
          note: "with Marc Hetherington and Pamela Conover" 
-         year: "Forthcoming"
+         year: "2026"
          book: "Reconsidering Parties and Partisanship"
          author: "Karpowitz, C. F. and Pope, J. C. Eds."
        - title: "The Mass Public's View of Implicit Bias, with Implications for Scientific Communication in a Polarized Age."
@@ -202,9 +202,8 @@ working:
        - title:   "Political Consumerism in a Racially Polarized Context (with Cindy D. Kam)"
        - title:   "A Crucible for Allyship? New Evidence on the Dynamics Between Democratic Partisanship and
 Solidarity Between People of Color (with Efrén O. Pérez, Seth Goldman, Yuen Huo, Tatishe Nteta, and Linda R. Tropp)"
-       - title:   "Acquiescence Bias and Predictive Validity: Problems and Potential Solutions for Agree-Disagree Scales (with Scott Clifford)"
-       - title:   "Raising the Future: Race and the Politics of Child-Rearing (in progress book manuscript with Allison Anoll and Mackenzie Israel-Trummel)"
-       - title:   "What is Conservative? (in progress book manuscript with Marc J. Hetherington and Jonathan Weiler)"
+       - title:   "Fighting for the Future: Race and the Politics of Child-Rearing (in progress book manuscript with Allison Anoll and Mackenzie Israel-Trummel)"
+       - title:   "What is Conservative? (book manuscript with Marc J. Hetherington and Jonathan Weiler)"
 
 ---
 
