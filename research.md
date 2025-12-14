@@ -202,7 +202,7 @@ working:
        - title:   "Political Consumerism in a Racially Polarized Context (with Cindy D. Kam)"
        - title:   "A Crucible for Allyship? New Evidence on the Dynamics Between Democratic Partisanship and
 Solidarity Between People of Color (with Efrén O. Pérez, Seth Goldman, Yuen Huo, Tatishe Nteta, and Linda R. Tropp)"
-       - title:   "Fighting for the Future: Race and the Politics of Child-Rearing (in progress book manuscript with Allison Anoll and Mackenzie Israel-Trummel)"
+       - title:   "Fighting for the Future: The Politics of Socialization in a Racially Diverse America (in progress book manuscript with Allison Anoll and Mackenzie Israel-Trummel)"
        - title:   "What is Conservative? (book manuscript with Marc J. Hetherington and Jonathan Weiler)"
 
 ---
