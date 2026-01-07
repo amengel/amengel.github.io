@@ -1,1 +1,7 @@
 .DS_Store
+blog/updating_attitude_change_cache/html/__packages
+*.RData
+*.rdb
+*.rdx
+blog/updating_attitude_change_files/figure-html/means-1.png
+blog/updating_attitude_change_files/figure-html/riclpm-1.png
