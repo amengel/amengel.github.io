@@ -4,6 +4,14 @@ permalink: /research/
 title: Research
 pubs:
 
+    - title:   "Acquiescence Bias and Criterion Validity: Problems and Potential Solutions for Agree/disagree Scales"
+      author:  ""
+      journal: "Political Behavior"
+      note:    "with Scott Clifford"
+      year:    "Forthcoming"
+      url:     ""
+      abstract: "Scholars frequently measure dispositions like populism, conspiracism, racism, and sexism by asking survey respondents whether they agree or disagree with statements exemplifying those constructs. This agree/disagree format is known to introduce acquiescence bias, which can inflate endorsement rates. The evidence is less clear, however, on how acquiescence affects criterion validity. Though many survey researchers are aware of the problem of acquiescence, we show that political scientists frequently overlook it. First, across 160 tests we show that acquiescence bias can severely distort the magnitude of relationships between constructs and even produce sign errors. Second, an internal meta-analysis indicates acquiescence bias varies in size across samples and constructs. Third, we evaluate balanced scales and measurement models as potential solutions and find that estimated relationships between constructs are sensitive to both measurement choices. We conclude with survey design advice and recommendations for redesigning several popular measures of political and psychological dispositions."
+
     - title:   "A Racial Reckoning? Racial Attitudes in the Wake of the Murder of George Floyd"
       author:  ""
       journal: "Political Science Research and Methods"
