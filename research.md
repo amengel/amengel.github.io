@@ -213,7 +213,7 @@ Solidarity Between People of Color (with Efrén O. Pérez, Seth Goldman, Yuen Hu
 
 ---
 
-Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers and Ongoing Projects](#working-papers-and-ongoing-projects)
+Jump to [Articles](#articles), [Book Chapters](#book-chapters), [Working Papers and Ongoing Projects](#working-papers-and-ongoing-projects).
 
 <style type="text/css">
     details {
