@@ -1,9 +1,10 @@
 ---
 layout: page
+title: Books
 permalink: /research/books/
 ---
 
-# Fighting for the Future: The Politics of Socialization in a Diverse America
+## Fighting for the Future: The Politics of Socialization in a Diverse America
 (with Allison Anoll and Mackenzie Israel-Trummel)
 
 This in-progress book explores why people fight over how kids are raised in the United States. We argue that this follows from what we call the *kids are the future* folk wisdom. This perspective, in turn, makes child socialization political. We introduce this idea of *politicized socialization* in the case of race.
