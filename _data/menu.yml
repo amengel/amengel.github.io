@@ -3,6 +3,9 @@
   
 - title: "Research"
   href: "/research/"
+  subcategories:
+    - subtitle: "Book"
+      subhref: "/research/books/"
 
 - title: "Teaching"
   href: "/teaching/"
