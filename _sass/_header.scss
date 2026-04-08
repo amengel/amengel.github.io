@@ -73,7 +73,7 @@
     position: absolute;
     text-align: left;
     text-transform: none;
-    top: 28px;
+    top: 100%;
     min-width: 200px;
     z-index:999;
 }
@@ -85,6 +85,10 @@
     margin: 3px 0;
     padding: 0;
     text-align: left;
+}
+
+.site-nav li {
+    position: relative;
 }
 
 .site-nav li:hover > .sub-menu {
