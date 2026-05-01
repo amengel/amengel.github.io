@@ -8,6 +8,9 @@ permalink: /research/books/
 (with Marc Hetherington and Jonathan Weiler)
 [Princeton University Press](https://press.princeton.edu/books/hardcover/9780691258997/the-right-way)
 
+{% include image.html url="images/rightway.avif" caption="" max_width="400px" align="right"%}
+
+
 When Donald Trump surged to the lead in the 2015 fight for the GOP presidential nomination, bewildered political watchers struggled to understand why, because his policy positions were often at odds with what had been Republican orthodoxy since the days of Ronald Reagan. The Right Way reveals what these political observers missed, presenting a multidimensional understanding of the conservative worldview that explains why Trump has succeeded in both building up and tearing down what conservatives have traditionally embraced.
 
 Marc Hetherington, Andrew Engelhardt, and Jonathan Weiler argue for a reimagining of conservatism that lends clarity to partisan paradoxes that otherwise seem inconsistent with the brand of conservatism most of us grew up with. Drawing on in-depth surveys from across America, they show how conservative voters rely on their general view of the world and human nature more broadly to understand the political world around them. Rather than preferences for limited government, conservative outlooks and dispositions explain why ordinary people who identify as conservatives vote the way they do on issues ranging from racial and gender equality to LGBTQ rights, immigration, redistribution, and foreign policy. They also tackle puzzles such as the willingness of today’s conservatives to support politicians who bend or even break norms and rules that have been central to democratic functioning throughout American history.
