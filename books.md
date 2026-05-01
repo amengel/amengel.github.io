@@ -8,7 +8,7 @@ permalink: /research/books/
 (with Marc Hetherington and Jonathan Weiler)
 [Princeton University Press](https://press.princeton.edu/books/hardcover/9780691258997/the-right-way)
 
-{% include image.html url="https://www.amengelhardt.com/images/rightway.avif" caption="" max_width="200px" width="200px" align="right"%}
+{% include image.html url="https://www.amengelhardt.com/images/rightway.avif" caption="" max_width="300px" width="300px" align="right"%}
 
 
 When Donald Trump surged to the lead in the 2015 fight for the GOP presidential nomination, bewildered political watchers struggled to understand why, because his policy positions were often at odds with what had been Republican orthodoxy since the days of Ronald Reagan. The Right Way reveals what these political observers missed, presenting a multidimensional understanding of the conservative worldview that explains why Trump has succeeded in both building up and tearing down what conservatives have traditionally embraced.
