@@ -217,8 +217,6 @@ chapters:
 
 working:
        - title:   "Political Consumerism in a Racially Polarized Context (with Cindy D. Kam)"
-       - title:   "A Crucible for Allyship? New Evidence on the Dynamics Between Democratic Partisanship and
-Solidarity Between People of Color (with Efrén O. Pérez, Seth Goldman, Yuen Huo, Tatishe Nteta, and Linda R. Tropp)"
 
 ---
 
