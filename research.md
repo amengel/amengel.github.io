@@ -10,7 +10,6 @@ pubs:
       note:    "with Jennifer Chudy"
       year:    "2026"
       url:     ""
-      doi:     ""
       abstract: "In the United States, political trust rests on a myriad building of blocks, including race. But existing work offers less information about why race matters for trust and if its relevance varies across racial groups and political contexts. We argue that in-group evaluations with respect to group status, seen in perceptions of marginalization and group attachments, can contribute to political trust. We test this using data from the American National Election Study (ANES) and the 2020 Collaborative Multi-racial Post-election Study (CMPS). We show that these orientations matter across groups and that their relevance does not vary with the party-in-power. We also offer evidence suggesting whites’ political trust may be less chronically connected with in-group evaluations compared to Blacks and Latinos. We conclude by discussing the implications of our results for government performance in a polarized age."
       
     - title:   "Solidarity Between People of Color Has Dynamic, Partisan Roots: Panel Evidence During and After the 2024 Presidential Contest"
@@ -19,7 +18,6 @@ pubs:
       note:    "with Efrén O. Pérez, Seth Goldman, Yuen Huo, Tatishe Nteta, and Linda R. Tropp"
       year:    "2026"
       url:     ""
-      doi:     ""
       abstract: "Solidarity between people of color (PoC) is known to mute divisions between racially stigmatized groups. Yet solidarity’s political origins remain highly unclear. We consider whether PoC solidarity responds to partisan dynamics that unfold before, during, and after presidential elections. A racially diverse Democratic Party requires cross-racial alliances to effectively coordinate during presidential campaigns. This implies that relations between partisanship and PoC solidarity should be sensitive to shifts in campaign contexts, which (de)escalate partisanship. Thus, depending on campaign context, partisanship might shape PoC solidarity, and solidarity might also affect partisanship. We evaluate these prospects with longitudinal data from two extensive survey panels of Asian, Black, Latino, and Multiracial adults, which spanned the 2024 presidential contest between Democrat Kamala Harris and Republican Donald Trump. Across panels, we detect an influence of partisanship on PoC solidarity, with no clear evidence for a reverse relationship between these variables. Critically, partisanship’s  linkage to PoC solidarity strengthens in waves that are more proximate to election day. These dynamics are substantively similar across racially stigmatized groups, suggesting that solidarity between people of color is partly rooted in the salience of presidential campaigns and the incentives they provide to build cross-racial alliances."
       
     - title:   "Acquiescence Bias and Criterion Validity: Problems and Potential Solutions for Agree/disagree Scales"
