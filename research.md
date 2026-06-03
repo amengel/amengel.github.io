@@ -4,6 +4,15 @@ permalink: /research/
 title: Research
 pubs:
 
+    - title:   "Who Trusts? The Relevance of Race for Political Trust"
+      author:  ""
+      journal: "Political Behavior"
+      note:    "with Jennifer Chudy"
+      year:    "2026"
+      url:     ""
+      doi:     ""
+      abstract: "In the United States, political trust rests on a myriad building of blocks, including race. But existing work offers less information about why race matters for trust and if its relevance varies across racial groups and political contexts. We argue that in-group evaluations with respect to group status, seen in perceptions of marginalization and group attachments, can contribute to political trust. We test this using data from the American National Election Study (ANES) and the 2020 Collaborative Multi-racial Post-election Study (CMPS). We show that these orientations matter across groups and that their relevance does not vary with the party-in-power. We also offer evidence suggesting whites’ political trust may be less chronically connected with in-group evaluations compared to Blacks and Latinos. We conclude by discussing the implications of our results for government performance in a polarized age."
+      
     - title:   "Solidarity Between People of Color Has Dynamic, Partisan Roots: Panel Evidence During and After the 2024 Presidential Contest"
       author:  ""
       journal: "Political Research Quarterly"
