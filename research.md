@@ -10,6 +10,7 @@ pubs:
       note:    "with Jennifer Chudy"
       year:    "2026"
       url:     "https://link.springer.com/article/10.1007/s11109-026-10178-z"
+      doi:     "http://doi.org/10.1007/s11109-026-10178-z"
       abstract: "In the United States, political trust rests on a myriad building of blocks, including race. But existing work offers less information about why race matters for trust and if its relevance varies across racial groups and political contexts. We argue that in-group evaluations with respect to group status, seen in perceptions of marginalization and group attachments, can contribute to political trust. We test this using data from the American National Election Study (ANES) and the 2020 Collaborative Multi-racial Post-election Study (CMPS). We show that these orientations matter across groups and that their relevance does not vary with the party-in-power. We also offer evidence suggesting whites’ political trust may be less chronically connected with in-group evaluations compared to Blacks and Latinos. We conclude by discussing the implications of our results for government performance in a polarized age."
       
     - title:   "Solidarity Between People of Color Has Dynamic, Partisan Roots: Panel Evidence During and After the 2024 Presidential Contest"
@@ -26,6 +27,7 @@ pubs:
       note:    "with Scott Clifford"
       year:    "2026"
       url:     "https://link.springer.com/article/10.1007/s11109-026-10124-z"
+      doi:     "http://doi.org/10.1007/s11109-026-10124-z"
       abstract: "Scholars frequently measure dispositions like populism, conspiracism, racism, and sexism by asking survey respondents whether they agree or disagree with statements exemplifying those constructs. This agree/disagree format is known to introduce acquiescence bias, which can inflate endorsement rates. The evidence is less clear, however, on how acquiescence affects criterion validity. Though many survey researchers are aware of the problem of acquiescence, we show that political scientists frequently overlook it. First, across 160 tests we show that acquiescence bias can severely distort the magnitude of relationships between constructs and even produce sign errors. Second, an internal meta-analysis indicates acquiescence bias varies in size across samples and constructs. Third, we evaluate balanced scales and measurement models as potential solutions and find that estimated relationships between constructs are sensitive to both measurement choices. We conclude with survey design advice and recommendations for redesigning several popular measures of political and psychological dispositions."
 
     - title:   "A Racial Reckoning? Racial Attitudes in the Wake of the Murder of George Floyd"
