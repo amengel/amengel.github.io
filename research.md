@@ -4,6 +4,14 @@ permalink: /research/
 title: Research
 pubs:
 
+    - title:   "Right-Wing Shift? Evaluating Authoritarianism, Social Dominance, and System Justification Levels Among People of Color Before and After 2024’s Election"
+      author:  ""
+      journal: "Journal of Race, Ethnicity, and Politics"
+      note:    "with Emily Ortiz, Ramona Alhambra, and Efrén O. Pérez"
+      year:    "2026"
+      url:     ""
+      abstract: "Non-trivial shares of people of color (PoC) have long identified as Republicans and many of them helped cement Donald Trump’s 2024 re-election. How durable was this shift to the political right among some PoC? We test two claims in this brief research note. First, consistent with polarization literature, we claim that partisanship primed three conservative postures among Republican PoC during the 2024 campaign: authoritarianism, social dominance orientation, and system justification. Second, aligning with work on expressive survey responses, we argue that these postures faded significantly once Trump’s agenda produced visibly harmful consequences for PoC (e.g., deportation raids; weakened civil rights). Leveraging a 3-wave panel of Black, Latino, and Asian adults (N=3,626), our pre-registered analyses indicate Republican partisanship in June 2024 heightened authoritarianism, social dominance, and system justification among Black, Latino, and Asian adults in December 2024. These patterns were fleeting, with partisanship’s impact on these postures withering by July 2025. We find scattered evidence that these postures intensified PoC’s Republican partisanship during this period, implying our results reflect campaign effects rather than an unerring endorsement of these right-wing inclinations among Republican PoC."
+      
     - title:   "Who Trusts? The Relevance of Race for Political Trust"
       author:  ""
       journal: "Political Behavior"
