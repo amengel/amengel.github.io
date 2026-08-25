@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 pubs:
 
-    - title:   "Right-Wing Shift? Evaluating Authoritarianism, Social Dominance, and System Justification Levels Among People of Color Before and After 2024’s Election"
+    - title:   "Right-Wing Shift? Evaluating Authoritarianism, Social Dominance, and System Justification Among People of Color Before and After the 2024 Election"
       author:  ""
       journal: "Journal of Race, Ethnicity, and Politics"
       note:    "with Emily Ortiz, Ramona Alhambra, and Efrén Pérez"
